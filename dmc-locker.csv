@@ -1,0 +1,121 @@
+Sr.No.,RollNo,Name,Group,Gender,LockerNo
+1,80236,Deshmane Payal Dilip,W1,F,409
+19,80345,Shruti Vinayak Sawant,W1,F,424
+25,80377,Vaishnavi Bhagwan Bhadule,W1,F,439
+2,80238,Tejaswini Tushar Patil,W1,F,454
+33,80453,Pratiksha Manik Kolawale,W1,F,469
+39,80474,Kharade Shravani Tryambak,W1,F,484
+56,80632,Mugdha Suraj Kulkarni,W1,F,410
+59,80638,Siddhi Gajanan Dani,W1,F,425
+60,80645,Sneha Hedaoo,W1,F,440
+63,80654,Kalyani Raju Ramteke,W1,F,455
+67,80679,Mahajan Swapanali Pandarinath,W1,F,470
+75,80740,Charushila Yadav Dhande,W1,F,485
+7,80275,Chaudhari Gauri Mukesh,W1,F,411
+81,80773,Navghane Supriya Jagannath,W1,F,426
+87,80797,Bhosale Sanjana Balasaheb,W1,F,441
+10,80286,Tanuja Rajendra Pawar,W2,F,456
+17,80330,Aastha Anil Bhidekar,W2,F,471
+24,80375,Apurva,W2,F,486
+26,80393,Shaikh Aasiya Shabbir,W2,F,412
+29,80421,Ayushi Vinay Mate,W2,F,427
+30,80424,Ruchi Dubey,W2,F,442
+38,80473,Rani Sharadrao Ingle,W2,F,457
+50,80523,Srushti Milind Choudhary,W2,F,472
+57,80634,Lodhavat Asmita Udaysing,W2,F,487
+61,80649,Sujata Ramdas Bhosale,W2,F,413
+64,80660,Avanti Avinash Jagdale,W2,F,428
+95,80828,Khedkar Pragati Balu,W2,F,443
+98,80854,Chopade Kajal Liladhar,W2,F,458
+12,80301,Daminee Patil,W3,F,473
+22,80353,Sawarkar Shreya Arun,W3,F,488
+23,80372,Shraddha Baban Khilari,W3,F,414
+44,80491,Ankita Suresh Satdeve,W3,F,429
+48,80513,Jadhav Swapnali Trimbakrao,W3,F,444
+53,80559,Patil Apurva Patangrao,W3,F,459
+58,80635,Shamal Sanjay Ramavat,W3,F,474
+62,80653,Bhagyashree Guruprasad Garakate,W3,F,489
+6,80270,Vaishnavi Patil,W3,F,415
+71,80717,Ashwini Ram Chavan,W3,F,430
+72,80721,Chetana Khushal Mahajan,W3,F,445
+83,80779,Kote Pooja Anil,W3,F,460
+91,80805,Mansi Balajirao Kotgire,W3,F,475
+92,80806,Minal Balajirao Kotgire,W3,F,490
+100,80862,Charde Yash,W1,M,416
+101,80886,Bopalkar Pritam Mahavir,W1,M,431
+13,80315,Parag  Prabhakar Gajbhiye,W1,M,446
+14,80317,Vedant Ramakantappa Rewadkar,W1,M,461
+15,80324,Pathan Mhebub Sajjat,W1,M,476
+35,80457,Prasad Sanjay Rajhans,W1,M,491
+52,80546,Shiv Tyagi,W1,M,417
+5,80269,Roshan Vikas Borse,W1,M,432
+70,80700,Sopan Vinchurkar,W1,M,447
+73,80729,Ankit Nalkar,W1,M,462
+76,80744,Gadhave Ashutosh Balasaheb,W1,M,477
+84,80783,Sajid Rajjak Sayyad,W1,M,492
+88,80799,Vikas,W1,M,418
+89,80803,Bendale Prajwal Dattatraya,W1,M,433
+93,80813,Kulkarni Aditya Govind,W1,M,448
+94,80815,Kondapure Riteshkumar Manojkumar,W1,M,463
+97,80845,Rudransh Nigam,W1,M,478
+99,80859,Ekabote Govinda Balaji,W1,M,493
+11,80292,Kodgire Sidhant Dnyaneshwar,W2,M,419
+16,80326,Akshat Borana,W2,M,434
+27,80401,Yeole Rohan Suhas,W2,M,449
+28,80403,Anil Balaso Solankar,W2,M,464
+31,80437,Lokesh Patel,W2,M,479
+32,80442,Akash Pandurang Kumbhar,W2,M,494
+34,80455,Dhanraj Dhanaji Jadhav,W2,M,420
+36,80459,Yash Anil Suryawanshi,W2,M,435
+37,80465,Wankhede Pratik Anil,W2,M,450
+41,80477,Satyam Kumar,W2,M,465
+43,80488,Harshal Narayan Shirapure,W2,M,480
+46,80500,Bhangale Chirag Vasudev,W2,M,495
+47,80512,Gotmare Sanket Arun,W2,M,421
+4,80242,Vipin Kumar,W2,M,436
+49,80516,Jitendra Patil,W2,M,451
+51,80539,Tanmay Madhukar Band,W2,M,466
+55,80589,Bhosale Sanmesh Balasaheb,W2,M,481
+68,80692,Aniket Pawar,W2,M,496
+79,80762,Tejas Rameshrao Wakode,W2,M,422
+85,80784,Ankit Lal Sinha,W2,M,437
+86,80785,Aditya Lal Sinha,W2,M,452
+8,80279,Malode Vaishnav Udayrao,W2,M,467
+102,12345,student1,W3,M,482
+103,12346,student2,W3,M,497
+104,12347,student3,W3,M,423
+105,12348,student4,W3,M,438
+106,12349,student5,W3,M,453
+107,12350,student6,W3,M,468
+108,12351,student7,W3,M,483
+109,12352,student8,W3,M,498
+110,12353,student9,W3,M,577
+111,12354,student10,W3,M,583
+112,12355,student11,W3,M,589
+113,12356,student12,W3,M,595
+114,12357,student13,W3,M,601
+115,12358,student14,W3,M,607
+116,12359,student15,W3,M,578
+117,12360,student16,W3,M,584
+118,12361,student17,W3,M,590
+119,12362,student18,W3,M,596
+120,12363,student19,W3,M,602
+18,80332,Dodmise Prabhat Chandrakant,W3,M,608
+20,80349,Kaustubh Ravindra Ganorkar,W3,M,579
+21,80351,Dhakne Ashutosh Vishnukant,W3,M,585
+3,80240,Kaiwalya Gadewar,W3,M,591
+40,80475,Suraj Santosh Khade,W3,M,597
+42,80480,Nakul Ganesh Patil,W3,M,603
+45,80495,Ankit Kumar,W3,M,609
+54,80561,Vyas Govind Rupesh,W3,M,580
+65,80664,Ghatode Samyak Dilip,W3,M,586
+66,80672,Tanmay Saxena,W3,M,592
+69,80697,Sawant Yanti Anil,W3,M,598
+74,80733,Rohit Choudhary,W3,M,604
+77,80747,Gavhane Vivek Vitthal,W3,M,610
+78,80752,Priyansh Yadav,W3,M,581
+80,80763,Nikam Avadhut Balaso,W3,M,587
+82,80778,Kharat Tushar Babasaheb,W3,M,593
+90,80804,Saifali Shekali Awati,W3,M,599
+96,80843,Nishant Singh,W3,M,605
+9,80280,Bhokare Atharva Ganesh,W3,M,611
