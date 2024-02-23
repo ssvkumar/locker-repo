@@ -22,7 +22,7 @@ for file in *-std.csv; do
 				
 				cp ditiss.csv student_allocation_data
 				
-				echo "ditiss.csv file is copied to required directory ( student_allocation_data ) 
+				echo "ditiss.csv file is copied to required directory ( student_allocation_data )" 
 
                 ;;
             d)
@@ -53,7 +53,6 @@ for file in *-std.csv; do
         echo "Invalid file name format: $file"
     fi
 done
-#!/bin/bash
 
 
 
