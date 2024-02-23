@@ -61,17 +61,17 @@ def dac():
 
 @app.route('/desd')
 def desd():
-    locker_data = read_dac_data()
+    locker_data = read_desd_data()
     return render_template('desd.html', locker_data=locker_data)
 
 @app.route('/dmc')
 def dmc():
-    locker_data = read_dac_data()
+    locker_data = read_dmc_data()
     return render_template('dmc.html', locker_data=locker_data)
 
 @app.route('/dbda')
 def dbda():
-    locker_data = read_dac_data()
+    locker_data = read_dbda_data()
     return render_template('dbda.html', locker_data=locker_data)
 
 if __name__ == '__main__':
