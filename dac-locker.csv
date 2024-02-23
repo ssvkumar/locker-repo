@@ -1,241 +1,121 @@
 Sr.No.,RollNo,Name,Group,Gender,LockerNo
 112,80555,Mrunali Ramesh Barde,D1,F,1
 119,80567,Aage Akanksha Ramrao,D1,F,13
-225,80831,Puja Gajanan Chopade,D1,F,25
-29,80319,Pawar Akshada Arvind,D1,F,37
-97,80504,Unnati Dnyaneshwar Kurekar,D1,F,49
-109,80547,Gunnapure Renu Gurusiddappa,D2,F,61
-129,80585,Payal Jayawant Kanase,D2,F,2
-33,80329,Chougale Ashwini Mahadev,D2,F,14
-35,80334,Harshita Jain,D2,F,26
-69,80418,Vaishnavi Mishra,D2,F,38
-139,80620,Deshpande Madhura Prasad,D3,F,50
-158,80669,Apoorva Vairagi,D3,F,62
-26,80312,Poonam Prakash Musale,D3,F,3
-48,80360,Natasha Deb,D3,F,15
-52,80367,Kajal Brijlal Warkhade,D3,F,27
-11,80264,Pawar Shruti Kiran,D4,F,39
-15,80281,Prachi Gupta,D4,F,51
-19,80293,Purva Santosh Dorkhande,D4,F,63
-3,80239,Sneha Rakshe,D4,F,4
-46,80357,Nakhate Priyanka Jaisingh,D4,F,16
-151,80643,Tripti Bhatia,D5,F,28
-216,80801,Gayatri Shinde,D5,F,40
-71,80420,Nikita Neminath Avadhut,D5,F,52
-73,80429,Pournima Kashiling Kolekar,D5,F,64
-80,80447,Shubhangi Tiwari,D5,F,5
-135,80603,Ubale Vijaya Laxman,D6,F,17
-174,80705,Shanu,D6,F,29
-30,80320,Narkhede Nikita Dilip,D6,F,41
-32,80327,Wagh Varsha Nandu,D6,F,53
-70,80419,Sakshi Manoj Kaple,D6,F,65
-101,80509,Chougule Raj Anant,D1,M,6
-104,80519,Shinde Abhishek Parmeshwar,D1,M,18
-10,80262,Malap Viraj Shailesh,D1,M,30
-115,80558,Patil Mayuresh Sanjay,D1,M,42
-126,80578,Patil Ruturaj Ramakant,D1,M,54
-128,80582,Tushar Vashistha,D1,M,66
-142,80623,Yash Jawalkar,D1,M,7
-147,80636,Ashutosh Nagrale,D1,M,19
-157,80663,Rishi Kumar Verma,D1,M,31
-166,80684,Nangare Sameer Prakash,D1,M,43
-175,80706,Mane Rohan Maruti,D1,M,55
-176,80709,Kshitij Ray,D1,M,67
-178,80713,Kate Mayur Rajendra,D1,M,8
-188,80734,Sandesh Balu Tribhuvan,D1,M,20
-189,80735,Nikhil Pramod Patil,D1,M,32
-196,80751,Janak A. Khorgade,D1,M,44
-203,80760,Kahare Mandar Rajesh,D1,M,56
-204,80767,Tarun Kumar,D1,M,68
-207,80774,Parimal Ravindra Kowale,D1,M,9
-208,80775,Vibhute Chaitanya Nagesh,D1,M,21
-209,80776,Saurabh Kishorrao Gajghume,D1,M,33
-215,80794,Murumkar Akash Digambar,D1,M,45
-217,80809,Sali Ankush Sunil,D1,M,57
-226,80839,Deepak Umakant Nikhare,D1,M,69
-227,80852,Sonur Rahul Sampat,D1,M,10
-228,80855,Mainak Saha,D1,M,22
-61,80384,Mudhale Nihar Kiran,D1,M,34
-68,80415,Karan Prashant Patil,D1,M,46
-78,80439,Solanke Sanket Kalyanrao,D1,M,58
-84,80456,Patil Hiren Suresh,D1,M,70
-8,80258,Thakur Ameya Shrikrishna,D1,M,11
-89,80478,Sainath Govind Ibitwar,D1,M,23
-93,80492,Bhandare Pranav Milind,D1,M,35
-99,80507,Tejas Ganesh Mohitkar,D1,M,47
-111,80549,Khandare Dipak Dhammveer,D2,M,59
-117,80562,Pushkraj Paris Kale,D2,M,71
-120,80568,Burungale Pranav Bharat,D2,M,12
-122,80570,Kasturkar Gajendra Sanjay,D2,M,24
-123,80572,Harshit Choudhary,D2,M,36
-124,80573,Arpit Rai,D2,M,48
-125,80577,Shevade Sarvesh Rajeev,D2,M,60
-127,80581,Gadekar Mayur Popat,D2,M,72
-13,80268,Umap Suraj Sumant,D2,M,73
-149,80641,Shaikh Tausif Ilmoddin,D2,M,86
-150,80642,Ghogare Jalindar Rajendra,D2,M,99
-160,80674,Pushkaraj Sadanand Mane,D2,M,112
-182,80719,Vishal Mohanrao Pukale,D2,M,125
-185,80725,Shende Ravindra Laxmanji,D2,M,138
-191,80739,Pratik Hemant Gade,D2,M,74
-192,80742,Shinde Avinash Ramesh,D2,M,87
-197,80754,Shahapure Omkar Ashok,D2,M,99
-198,80755,Jamadar Matin Samir,D2,M,113
-200,80757,Rushikesh Baban Rajgurav,D2,M,126
-20,80294,Shejul Pritam Ganesh,D2,M,139
-210,80777,Bagul Ninaad Sanjay,D2,M,75
-222,80823,Swapnil Sudhakar Hemadre,D2,M,88
-230,80867,Viraj Vinayak Khalate,D2,M,99
-231,80884,Mahajan Swapnil Ravindra,D2,M,114
-232,12345,Student1,D2,M,127
-233,12346,Student2,D2,M,140
-234,12347,Student3,D2,M,76
-235,12348,Student4,D2,M,89
-236,12349,Student5,D2,M,99
-237,12350,Student6,D2,M,115
-238,12351,Student7,D2,M,128
-239,12352,Student8,D2,M,141
-240,12353,Student9,D2,M,77
-24,80304,Shinde Chaitanya Dnyaneshwar,D2,M,90
-27,80314,Pawar Aniket Bharat,D2,M,99
-36,80335,Manoj Kumar Lakhani,D2,M,116
-40,80343,Sawant Pratik Janardan,D2,M,129
-49,80362,Ukirade Suraj Kalyanrao,D2,M,142
-67,80410,Gopal Haribhau Gadge,D2,M,78
-77,80438,Bhise Harish Balasaheb,D2,M,91
-81,80448,Shubham Arjun Waghmare,D2,M,99
-88,80472,Ghadge Omkar Vitthal,D2,M,117
-100,80508,Hare Manoj Lahu,D3,M,130
-103,80518,Rahul Khandelwal,D3,M,143
-105,80521,Ketan Chavan,D3,M,79
-106,80531,Manthan Mangesh Sankhe,D3,M,92
-107,80541,Hrutik Vilas Piprade,D3,M,99
-108,80542,Kunal Krishnakumar Patle,D3,M,118
-116,80560,Zambre Niraj Rajendra,D3,M,131
-12,80265,Kognoor Abhishek Sharanabasappa,D3,M,144
-153,80647,Indalkar Sanvid Mahesh,D3,M,80
-159,80671,Aseem Vairagi,D3,M,93
-167,80686,Shinde Rushikesh Dilip,D3,M,99
-169,80689,Nikhil Rajesh Belgaonkar,D3,M,119
-180,80715,Shikare Tejas Baban,D3,M,132
-199,80756,Shirode Kunal Anil,D3,M,145
-219,80812,Ghenand Gaurav Datta,D3,M,81
-224,80829,Band Shriyash Umesh,D3,M,94
-22,80302,Shinde Rishikesh Pandharinath,D3,M,99
-28,80316,Anurag Naresh Maldhure,D3,M,120
-37,80337,Rahul Ganpat Thakare,D3,M,133
-39,80342,Dudhal Rohit Sadhu,D3,M,146
-42,80347,Jaywant Kishor Kadam,D3,M,82
-43,80348,Hiwarkar Vedant Jitendra,D3,M,95
-44,80352,Vanarase Kshitij Prasad,D3,M,99
-53,80368,Abhinav Yadav,D3,M,121
-57,80378,Avdhut Suresh Tarwal,D3,M,134
-59,80382,Pawar Kunal Arun,D3,M,147
-65,80402,Omkar Dattatray Deokatte,D3,M,83
-6,80252,Saurabh Sanjay Niley,D3,M,96
-79,80440,Saptale Abhishek Ramchandra,D3,M,99
-83,80454,Lanjewar Nikhil Milind,D3,M,122
-85,80458,Nikumbh Lobhas Prashant,D3,M,135
-90,80481,Yadav Ganesh Balaji,D3,M,148
-94,80493,Bhale Rushikesh Dinanath,D3,M,84
-110,80548,Gaikar Rohit Bhausaheb,D4,M,97
+29,80319,Pawar Akshada Arvind,D1,F,25
+97,80504,Unnati Dnyaneshwar Kurekar,D1,F,37
+109,80547,Gunnapure Renu Gurusiddappa,D2,F,49
+33,80329,Chougale Ashwini Mahadev,D2,F,61
+35,80334,Harshita Jain,D2,F,2
+69,80418,Vaishnavi Mishra,D2,F,14
+26,80312,Poonam Prakash Musale,D3,F,26
+48,80360,Natasha Deb,D3,F,38
+52,80367,Kajal Brijlal Warkhade,D3,F,50
+11,80264,Pawar Shruti Kiran,D4,F,62
+15,80281,Prachi Gupta,D4,F,3
+19,80293,Purva Santosh Dorkhande,D4,F,15
+3,80239,Sneha Rakshe,D4,F,27
+46,80357,Nakhate Priyanka Jaisingh,D4,F,39
+71,80420,Nikita Neminath Avadhut,D5,F,51
+73,80429,Pournima Kashiling Kolekar,D5,F,63
+80,80447,Shubhangi Tiwari,D5,F,4
+30,80320,Narkhede Nikita Dilip,D6,F,16
+32,80327,Wagh Varsha Nandu,D6,F,28
+70,80419,Sakshi Manoj Kaple,D6,F,40
+101,80509,Chougule Raj Anant,D1,M,52
+104,80519,Shinde Abhishek Parmeshwar,D1,M,64
+10,80262,Malap Viraj Shailesh,D1,M,5
+115,80558,Patil Mayuresh Sanjay,D1,M,17
+61,80384,Mudhale Nihar Kiran,D1,M,29
+68,80415,Karan Prashant Patil,D1,M,41
+78,80439,Solanke Sanket Kalyanrao,D1,M,53
+84,80456,Patil Hiren Suresh,D1,M,65
+8,80258,Thakur Ameya Shrikrishna,D1,M,6
+89,80478,Sainath Govind Ibitwar,D1,M,18
+93,80492,Bhandare Pranav Milind,D1,M,30
+99,80507,Tejas Ganesh Mohitkar,D1,M,42
+111,80549,Khandare Dipak Dhammveer,D2,M,54
+117,80562,Pushkraj Paris Kale,D2,M,66
+120,80568,Burungale Pranav Bharat,D2,M,7
+13,80268,Umap Suraj Sumant,D2,M,19
+20,80294,Shejul Pritam Ganesh,D2,M,31
+24,80304,Shinde Chaitanya Dnyaneshwar,D2,M,43
+27,80314,Pawar Aniket Bharat,D2,M,55
+36,80335,Manoj Kumar Lakhani,D2,M,67
+40,80343,Sawant Pratik Janardan,D2,M,8
+49,80362,Ukirade Suraj Kalyanrao,D2,M,20
+67,80410,Gopal Haribhau Gadge,D2,M,32
+77,80438,Bhise Harish Balasaheb,D2,M,44
+81,80448,Shubham Arjun Waghmare,D2,M,56
+88,80472,Ghadge Omkar Vitthal,D2,M,68
+100,80508,Hare Manoj Lahu,D3,M,9
+103,80518,Rahul Khandelwal,D3,M,21
+105,80521,Ketan Chavan,D3,M,33
+106,80531,Manthan Mangesh Sankhe,D3,M,45
+107,80541,Hrutik Vilas Piprade,D3,M,57
+108,80542,Kunal Krishnakumar Patle,D3,M,69
+116,80560,Zambre Niraj Rajendra,D3,M,10
+12,80265,Kognoor Abhishek Sharanabasappa,D3,M,22
+22,80302,Shinde Rishikesh Pandharinath,D3,M,34
+28,80316,Anurag Naresh Maldhure,D3,M,46
+37,80337,Rahul Ganpat Thakare,D3,M,58
+39,80342,Dudhal Rohit Sadhu,D3,M,70
+42,80347,Jaywant Kishor Kadam,D3,M,11
+43,80348,Hiwarkar Vedant Jitendra,D3,M,23
+44,80352,Vanarase Kshitij Prasad,D3,M,35
+53,80368,Abhinav Yadav,D3,M,47
+57,80378,Avdhut Suresh Tarwal,D3,M,59
+59,80382,Pawar Kunal Arun,D3,M,71
+65,80402,Omkar Dattatray Deokatte,D3,M,12
+6,80252,Saurabh Sanjay Niley,D3,M,24
+79,80440,Saptale Abhishek Ramchandra,D3,M,36
+83,80454,Lanjewar Nikhil Milind,D3,M,48
+85,80458,Nikumbh Lobhas Prashant,D3,M,60
+90,80481,Yadav Ganesh Balaji,D3,M,72
+94,80493,Bhale Rushikesh Dinanath,D3,M,73
+110,80548,Gaikar Rohit Bhausaheb,D4,M,86
 118,80565,Pramit Samanta,D4,M,99
-121,80569,Pavan Shamrao More,D4,M,123
-130,80592,Suthar Jayesh Jalaram,D4,M,136
-131,80593,Vasani Meet Jigneshbhai,D4,M,149
-132,80594,Rohan Sanjay Chavan,D4,M,85
-137,80606,Nikhil,D4,M,98
-141,80622,Nilay Gadia,D4,M,99
-143,80624,Lakshya Dewangan,D4,M,124
-14,80273,Nirmal Patel,D4,M,137
-155,80657,Paras Gupta,D4,M,150
-161,80675,Ghodake Sanket Sunil,D4,M,409
-173,80704,Harsh Rathore,D4,M,424
-1,80234,Suryansh Raghuwanshi,D4,M,439
-18,80288,Yash Sandeep Pathak,D4,M,454
-190,80737,Sagar Khatri,D4,M,469
-218,80810,Prajwal Katkar,D4,M,484
-223,80827,Anunad Singh,D4,M,151
-31,80323,Lambe Saurabh Khandu,D4,M,166
-34,80331,Shirkar Niraj Santosh,D4,M,181
-38,80341,Aditya Jayant Misal,D4,M,196
-54,80373,Talreja  Ashish  Mukesh,D4,M,211
-55,80374,Ravi Shankar Soni,D4,M,226
-56,80376,Sonar Hrishikesh Ghanshyam,D4,M,152
-60,80383,Prateek,D4,M,167
-66,80404,Mridul Kapur,D4,M,182
-74,80430,Raut Devesh Madhukar,D4,M,197
-86,80469,Patil Siddhesh Sanjay,D4,M,212
-91,80483,Harsh Hargaonkar,D4,M,227
-92,80487,Shembade Anup Rajnikant,D4,M,153
-95,80498,Chavan Adesh Ravindranath,D4,M,168
-96,80503,Mane Indrajeet Rajaram,D4,M,183
-114,80557,Paturkar Vedant Shrikant,D5,M,198
-134,80602,Harsh Rathore,D5,M,213
-136,80604,Bhoite Kshitij Bharat,D5,M,228
-138,80619,Subodh Dinkar Patil,D5,M,154
-144,80625,Porassingh Rajkumar Patle,D5,M,169
-145,80630,Shubham Kumar,D5,M,184
-148,80639,Bhosale Raj Madan,D5,M,199
-152,80644,Gaurav Pandey,D5,M,214
-162,80677,Sane Sanskar Manish,D5,M,229
-163,80678,Mane Sandesh Uttam,D5,M,155
-164,80680,Tamore Bhavik Nitin,D5,M,170
-165,80681,Kore Smit Bhupendra,D5,M,185
-170,80694,Kate Swarnim Manohar,D5,M,200
-17,80285,Ashish Kumar Sharma,D5,M,215
-181,80716,Sakharkar Rushikesh Rajendra,D5,M,230
-183,80720,Rajdeep Shankar Sutar,D5,M,156
-193,80743,Kuwar Nilesh Devanand,D5,M,171
-194,80746,Santosh Balaji Pawar,D5,M,186
-195,80748,Aayush Singh Rajput,D5,M,201
-205,80769,Patil Harshad Narayan,D5,M,216
-206,80770,Borse Harshad Balasaheb,D5,M,231
-211,80786,Patil Pranav Adagonda,D5,M,157
-212,80787,Patil Adesh Ashok,D5,M,172
-221,80822,Zape Manal Subhash,D5,M,187
-229,80866,Rajat Rajendra Rathod,D5,M,202
-25,80305,Terala Bhanu Prakash,D5,M,217
-4,80241,Guruprasad Sanjay Bhandwale,D5,M,232
-50,80364,Khare Shaunak Girish Gandhali,D5,M,158
-58,80379,Singh Utkarsh Laxmikant,D5,M,173
-75,80432,Shirke Vishal Anil,D5,M,188
-7,80256,Vivek Kapri,D5,M,203
-87,80470,Dange Prathamesh Manojkumar,D5,M,218
-9,80260,Darshan Rayate,D5,M,233
-98,80505,Rutvik Ashok Kumbhar,D5,M,159
-102,80514,Walvekar Praneet Madan Kanchan,D6,M,174
-113,80556,Deshmukh Adwait Tatyasaheb,D6,M,189
-133,80600,Mohite Satyajeet  Shrikant,D6,M,204
-140,80621,Kushagra Khatri,D6,M,219
-146,80633,Tade Vaibhav Shaligram,D6,M,234
-154,80648,Madhekar Amar Sanjay,D6,M,160
-156,80661,Ankit Tameshwar Rahangdale,D6,M,175
-16,80283,Rajam Bhushan Ratnakar,D6,M,190
-168,80687,Parkhad Ritesh Subhash,D6,M,205
-171,80696,Kalekinge Hrishikesh Ishwar,D6,M,220
-172,80698,Yash Sanjay Kale,D6,M,235
-177,80710,Mehul Anil Pachpol,D6,M,161
-179,80714,Samant Sushil Satish,D6,M,176
-184,80724,Pawar Samarth Vijay,D6,M,191
-186,80726,Laksh Patil,D6,M,206
-187,80728,Vora Ashwin Hiralal,D6,M,221
-201,80758,Chetan Kushwaha,D6,M,236
-202,80759,Admane Satyajit Abhimanyu,D6,M,162
-213,80791,Londhe Digvijaysingh Shivaji,D6,M,177
-214,80792,Chechar Pramod Mukund,D6,M,192
-21,80300,Aditya Vitthal Kallurwar,D6,M,207
-220,80816,Chitransh Singh Rai,D6,M,222
-23,80303,Bhosale Pratik Ranjit,D6,M,237
-2,80237,Rahul Neekhare,D6,M,163
-41,80344,Vaibhav Sukhdev Bhosle,D6,M,178
-45,80355,Akhilesh Kumar Wagh,D6,M,193
-47,80358,R S Saswat Kumar,D6,M,208
-51,80365,Yash Ankush Bhosale,D6,M,223
-5,80248,Sahil Nanasaheb Hon,D6,M,238
-62,80391,Atharva Sanjay Gulhane,D6,M,164
-63,80395,Daulatkar Piyush Vivek,D6,M,179
-64,80397,Zampa Samarth Rajshekhar,D6,M,194
-72,80428,Pradeep Singh,D6,M,209
-76,80433,Akshat Shah,D6,M,224
-82,80450,Kale Vaibhav Vilas,D6,M,239
+14,80273,Nirmal Patel,D4,M,112
+1,80234,Suryansh Raghuwanshi,D4,M,125
+18,80288,Yash Sandeep Pathak,D4,M,138
+31,80323,Lambe Saurabh Khandu,D4,M,74
+34,80331,Shirkar Niraj Santosh,D4,M,87
+38,80341,Aditya Jayant Misal,D4,M,99
+54,80373,Talreja  Ashish  Mukesh,D4,M,113
+55,80374,Ravi Shankar Soni,D4,M,126
+56,80376,Sonar Hrishikesh Ghanshyam,D4,M,139
+60,80383,Prateek,D4,M,75
+66,80404,Mridul Kapur,D4,M,88
+74,80430,Raut Devesh Madhukar,D4,M,99
+86,80469,Patil Siddhesh Sanjay,D4,M,114
+91,80483,Harsh Hargaonkar,D4,M,127
+92,80487,Shembade Anup Rajnikant,D4,M,140
+95,80498,Chavan Adesh Ravindranath,D4,M,76
+96,80503,Mane Indrajeet Rajaram,D4,M,89
+114,80557,Paturkar Vedant Shrikant,D5,M,99
+17,80285,Ashish Kumar Sharma,D5,M,115
+25,80305,Terala Bhanu Prakash,D5,M,128
+4,80241,Guruprasad Sanjay Bhandwale,D5,M,141
+50,80364,Khare Shaunak Girish Gandhali,D5,M,77
+58,80379,Singh Utkarsh Laxmikant,D5,M,90
+75,80432,Shirke Vishal Anil,D5,M,99
+7,80256,Vivek Kapri,D5,M,116
+87,80470,Dange Prathamesh Manojkumar,D5,M,129
+9,80260,Darshan Rayate,D5,M,142
+98,80505,Rutvik Ashok Kumbhar,D5,M,78
+102,80514,Walvekar Praneet Madan Kanchan,D6,M,91
+113,80556,Deshmukh Adwait Tatyasaheb,D6,M,99
+16,80283,Rajam Bhushan Ratnakar,D6,M,117
+21,80300,Aditya Vitthal Kallurwar,D6,M,130
+23,80303,Bhosale Pratik Ranjit,D6,M,143
+2,80237,Rahul Neekhare,D6,M,79
+41,80344,Vaibhav Sukhdev Bhosle,D6,M,92
+45,80355,Akhilesh Kumar Wagh,D6,M,99
+47,80358,R S Saswat Kumar,D6,M,118
+51,80365,Yash Ankush Bhosale,D6,M,131
+5,80248,Sahil Nanasaheb Hon,D6,M,144
+62,80391,Atharva Sanjay Gulhane,D6,M,80
+63,80395,Daulatkar Piyush Vivek,D6,M,93
+64,80397,Zampa Samarth Rajshekhar,D6,M,99
+72,80428,Pradeep Singh,D6,M,119
+76,80433,Akshat Shah,D6,M,132
+82,80450,Kale Vaibhav Vilas,D6,M,145
