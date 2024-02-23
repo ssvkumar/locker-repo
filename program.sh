@@ -15,7 +15,6 @@ for file in *-std.csv; do
 				
 				echo "ditiss locker allocation is done"
 				
-				cat ditiss.csv
 
 				awk 'BEGIN {FS=OFS=","} NR>1 {$1=NR-1} 1' ditiss-locker.csv > temp && mv temp ditiss.csv
 
