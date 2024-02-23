@@ -19,6 +19,10 @@ for file in *-std.csv; do
 				awk 'BEGIN {FS=OFS=","} NR>1 {$1=NR-1} 1' ditiss-locker.csv > temp && mv temp ditiss.csv
 
 				echo "Find the final file ditiss.csv for your reference" 
+				
+				cp ditiss.csv student_allocation_data
+				
+				echo "ditiss.csv file is copied to required directory ( student_allocation_data ) 
 
                 ;;
             d)
