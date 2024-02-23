@@ -30,9 +30,30 @@ for file in *-std.csv; do
 
                 ;;
             d)
-                # Process the file
-                # Assuming processing involves some other action
-                echo "Processing $file"
+                { head -n 1 $file; tail -n +2 $file| sort -t ',' -k 5,5 -k 4,4; } > sorted-dac.csv
+				
+				echo "Student file is sorted" 
+			sed 's/$/,/' sorted-dac.csv > temp && mv temp dac-to-merge.csv
+				
+			echo "comma is added at the end" 
+			sleep 5 
+			
+			cut -d "," -f 2 d-lock.csv | paste -d '' dac-to-merge.csv -  > dac-locker.csv
+				
+				echo "dac locker allocation is done"
+				
+				sleep 5 
+				
+			awk 'BEGIN {FS=OFS=","} NR>1 {$1=NR-1} 1' dac-locker.csv > temp && mv temp dac.csv
+
+			echo "Find the final file dac.csv for your reference" 
+			
+			sleep 5 
+			
+			cp dac.csv student_allocation_data
+				
+			echo "dac.csv file is copied to required directory ( student_allocation_data )"		
+				
                 ;;
             e)
                 # Process the file
