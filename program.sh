@@ -10,8 +10,12 @@ for file in *-std.csv; do
 				{ head -n 1 $file; tail -n +2 $file| sort -t ',' -k 5,5 -k 4,4; } > sorted-ditiss.csv
 				
 				echo "Student file is sorted" 
+				
+				sed 's/$/,"/' sorted-ditiss.csv > temp && mv temp ditiss-to-merge.csv
+				
+				echo "comma is added at the end" 
 
-				cut -d "," -f 2 c-lock.csv | paste sorted-ditiss.csv -  > ditiss-locker.csv
+				cut -d "," -f 2 c-lock.csv | paste ditiss-to-merge.csv -  > ditiss-locker.csv
 				
 				echo "ditiss locker allocation is done"
 				

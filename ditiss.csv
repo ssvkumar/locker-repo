@@ -1,61 +1,61 @@
-Sr. No.,RollNo,Name,Group,Gender	LockerNo
-1,80261,Rutvija Vijay Patil,C1,F	331
-2,80282,Heena Bhagirath Shinganjude,C1,F	344
-3,80506,Kusalkar Isha Maruti,C1,F	357
-4,80530,Priyanka Kumari,C1,F	370
-5,80595,Turkane Rupal Vilas,C1,F	383
-6,80707,Siddhi,C1,F	396
-7,80662,Punam Makh,C2,F	332
-8,80819,Vede Komal Pandurang,C2,F	345
-9,80834,Shingade Vaishali Govind,C2,F	358
-10,80321,Shinde Kiran Duryodhan Sandhya,C2,F	371
-11,80405,Pallavi Anil Satao,C2,F	384
-12,80522,Amita Changdeo Bhajikhaye,C2,F	397
-13,80243,Gaurav Nivas Jadhav,C1,M	333
-14,80247,Dahake Aniket Diliprao,C1,M	346
-15,80266,Utkansh Adlakha,C1,M	359
-16,80276,Chirag Parag Patil,C1,M	372
-17,80306,Raut Kunal Sudam,C1,M	385
-18,80333,Vishal Vilas Kalantre,C1,M	398
-19,80336,Gawali Akshay Nandkumar,C1,M	334
-20,80371,Kuldeep Roy,C1,M	347
-21,80380,Phalke Shrijeet Baban,C1,M	360
-22,80417,Rajmane Amit Shivprasad,C1,M	373
-23,80468,Pratik Gupta,C1,M	386
-24,80471,Sawant Pravin Vitthal,C1,M	399
-25,80550,Dhanawade Yogesh Rajendra,C1,M	335
-26,80596,Swapnil Sahebrao Nagare,C1,M	348
-27,80601,Pratik Shivaji Najan,C1,M	361
-28,80670,Pandhare Kiran Laxman,C1,M	374
-29,80701,Piyush Arun Patil,C1,M	387
-30,80780,Bhor Mohan Pandurang,C1,M	400
-31,80781,Sarode Dinesh Santosh,C1,M	336
-32,80796,More Tushar Dilipkumar,C1,M	349
-33,80235,Shashank S Bapu,C2,M	362
-34,80271,Ansh Jain,C2,M	375
-35,80291,Aman Kumar,C2,M	388
-36,80295,Jakcin Manoj,C2,M	401
-37,80297,Sudhir Balaji Gore,C2,M	337
-38,80310,Aglawe Ankush Ajayrao,C2,M	350
-39,80409,Pawar Amol Rajaram,C2,M	363
-40,80422,Rohit Saha,C2,M	376
-41,80452,Shivendra Singh Khichi,C2,M	389
-42,80461,Rajodiya Akshay Umedsingh,C2,M	402
-43,80462,Kokane Rajat Dayanand,C2,M	338
-44,80486,Abhishek Kumar,C2,M	351
-45,80496,Vyas Krishna Narayanrao,C2,M	364
-46,80511,Prasad Prakash Thombare,C2,M	377
-47,80532,Chaudhari Shubham Hemant Surekha,C2,M	390
-48,80575,Ayush Maindolia,C2,M	403
-49,80579,Shitole Nikhil Ramesh,C2,M	339
-50,80598,Gaikwad Tushar Balasaheb,C2,M	352
-51,80616,Tanmay Shelke,C2,M	365
-52,80631,Chavan Sachin Gajanan,C2,M	378
-53,12345,student1,C2,M	391
-54,12346,student2,C2,M	404
-55,12347,student3,C2,M	340
-56,12348,student4,C2,M	353
-57,12349,student5,C2,M	366
-58,12350,student6,C2,M	379
-59,12351,student7,C2,M	392
-60,12352,student8,C2,M	405
+Sr. No.,RollNo,Name,Group,Gender,"	LockerNo
+1,80261,Rutvija Vijay Patil,C1,F,"	331
+2,80282,Heena Bhagirath Shinganjude,C1,F,"	344
+3,80506,Kusalkar Isha Maruti,C1,F,"	357
+4,80530,Priyanka Kumari,C1,F,"	370
+5,80595,Turkane Rupal Vilas,C1,F,"	383
+6,80707,Siddhi,C1,F,"	396
+7,80662,Punam Makh,C2,F,"	332
+8,80819,Vede Komal Pandurang,C2,F,"	345
+9,80834,Shingade Vaishali Govind,C2,F,"	358
+10,80321,Shinde Kiran Duryodhan Sandhya,C2,F,"	371
+11,80405,Pallavi Anil Satao,C2,F,"	384
+12,80522,Amita Changdeo Bhajikhaye,C2,F,"	397
+13,80243,Gaurav Nivas Jadhav,C1,M,"	333
+14,80247,Dahake Aniket Diliprao,C1,M,"	346
+15,80266,Utkansh Adlakha,C1,M,"	359
+16,80276,Chirag Parag Patil,C1,M,"	372
+17,80306,Raut Kunal Sudam,C1,M,"	385
+18,80333,Vishal Vilas Kalantre,C1,M,"	398
+19,80336,Gawali Akshay Nandkumar,C1,M,"	334
+20,80371,Kuldeep Roy,C1,M,"	347
+21,80380,Phalke Shrijeet Baban,C1,M,"	360
+22,80417,Rajmane Amit Shivprasad,C1,M,"	373
+23,80468,Pratik Gupta,C1,M,"	386
+24,80471,Sawant Pravin Vitthal,C1,M,"	399
+25,80550,Dhanawade Yogesh Rajendra,C1,M,"	335
+26,80596,Swapnil Sahebrao Nagare,C1,M,"	348
+27,80601,Pratik Shivaji Najan,C1,M,"	361
+28,80670,Pandhare Kiran Laxman,C1,M,"	374
+29,80701,Piyush Arun Patil,C1,M,"	387
+30,80780,Bhor Mohan Pandurang,C1,M,"	400
+31,80781,Sarode Dinesh Santosh,C1,M,"	336
+32,80796,More Tushar Dilipkumar,C1,M,"	349
+33,80235,Shashank S Bapu,C2,M,"	362
+34,80271,Ansh Jain,C2,M,"	375
+35,80291,Aman Kumar,C2,M,"	388
+36,80295,Jakcin Manoj,C2,M,"	401
+37,80297,Sudhir Balaji Gore,C2,M,"	337
+38,80310,Aglawe Ankush Ajayrao,C2,M,"	350
+39,80409,Pawar Amol Rajaram,C2,M,"	363
+40,80422,Rohit Saha,C2,M,"	376
+41,80452,Shivendra Singh Khichi,C2,M,"	389
+42,80461,Rajodiya Akshay Umedsingh,C2,M,"	402
+43,80462,Kokane Rajat Dayanand,C2,M,"	338
+44,80486,Abhishek Kumar,C2,M,"	351
+45,80496,Vyas Krishna Narayanrao,C2,M,"	364
+46,80511,Prasad Prakash Thombare,C2,M,"	377
+47,80532,Chaudhari Shubham Hemant Surekha,C2,M,"	390
+48,80575,Ayush Maindolia,C2,M,"	403
+49,80579,Shitole Nikhil Ramesh,C2,M,"	339
+50,80598,Gaikwad Tushar Balasaheb,C2,M,"	352
+51,80616,Tanmay Shelke,C2,M,"	365
+52,80631,Chavan Sachin Gajanan,C2,M,"	378
+53,12345,student1,C2,M,"	391
+54,12346,student2,C2,M,"	404
+55,12347,student3,C2,M,"	340
+56,12348,student4,C2,M,"	353
+57,12349,student5,C2,M,"	366
+58,12350,student6,C2,M,"	379
+59,12351,student7,C2,M,"	392
+60,12352,student8,C2,M,"	405
