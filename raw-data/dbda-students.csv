@@ -1,0 +1,61 @@
+Sr. No.,username,password,firstname,lastname,email,email2,phone1,city,institution,idnumber,department,course1,Gender,BatchID,HasLaptop
+1,83626,83626#Sunbeam,-,Jethani Indra Lakhiram,231207893@dbda-mar-2024.com,indrajethani04@gmail.com,8459702227,Jalgaon,83626,240344225030,B1,DBDA-MAR-2024,F,208240305,Laptop
+2,83631,83631#Sunbeam,-,Pooja Dhiraj Rajeshirke,231203024@dbda-mar-2024.com,poojashelar3@gmail.com,7083770003,Kolhapur,83631,240344225038,B1,DBDA-MAR-2024,F,208240305,Laptop
+3,83634,83634#Sunbeam,-,Abhimanyu Ponia,231200392@dbda-mar-2024.com,poniaabhi@gmail.com,7983035980,Agra,83634,240344225001,B2,DBDA-MAR-2024,M,208240305,Laptop
+4,83644,83644#Sunbeam,-,Prashant Dilip Bhujbal,240100714@dbda-mar-2024.com,prashantbhujbal0077@gmail.com,8010649955,Ahmednagar,83644,240344225043,B2,DBDA-MAR-2024,M,208240305,Laptop
+5,83653,83653#Sunbeam,-,Jadhav Abhishek Devidas,240100561@dbda-mar-2024.com,jadhavabhid@gmail.com,9423712794,Pune,83653,240344225027,B2,DBDA-MAR-2024,M,208240305,Laptop
+6,83655,83655#Sunbeam,-,Shinde Swapnil Janardhan,231201248@dbda-mar-2024.com,swapnil.shinde.529@gmail.com,9657252788,Aurangabad,83655,240344225051,B2,DBDA-MAR-2024,M,208240305,Laptop
+7,83658,83658#Sunbeam,-,Yogesh Vinayak Kasar,240100229@dbda-mar-2024.com,yogeshkasar4898@gmail.com,7738495814,Kalyan,83658,240344225060,B1,DBDA-MAR-2024,M,208240305,Laptop
+8,83663,83663#Sunbeam,-,Isha Madhukarrao Shinde,231203476@dbda-mar-2024.com,ishashinde8344@gmail.com,7498805455,Pune,83663,240344225026,B1,DBDA-MAR-2024,F,208240305,PC
+9,83671,83671#Sunbeam,-,Sarang Uday Katyare,231206323@dbda-mar-2024.com,sarangkatyare@gmail.com,9033176827,Vadodara,83671,240344225048,B1,DBDA-MAR-2024,M,208240305,Laptop
+10,83675,83675#Sunbeam,-,Kumbhar Vaishnavi Ramesh,231201661@dbda-mar-2024.com,kumbharvaishnavi5@gmail.com,9421287574,Kolhapur,83675,240344225035,B2,DBDA-MAR-2024,F,208240305,Laptop
+11,83679,83679#Sunbeam,-,Potdukhe Dipti Raju,231200978@dbda-mar-2024.com,diptipotdukhe03@gmail.com,9370693763,Pune,83679,240344225039,B1,DBDA-MAR-2024,F,208240305,Laptop
+12,83681,83681#Sunbeam,-,Dound Vishal Dinkar,231202219@dbda-mar-2024.com,vishaldound37@gmail.com,8149960037,Parbhani,83681,240344225022,B2,DBDA-MAR-2024,M,208240305,Laptop
+13,83690,83690#Sunbeam,-,Aniket Pankaj Khandelwal,231200661@dbda-mar-2024.com,ani180599@gmail.com,9923263598,Pune,83690,240344225008,B2,DBDA-MAR-2024,M,208240305,Laptop
+14,83706,83706#Sunbeam,-,Kshirsagar Akash Ajay,231202627@dbda-mar-2024.com,akashkshirsagar5309@gmail.com,7448114218,Khamgaon,83706,240344225034,B2,DBDA-MAR-2024,M,208240305,Laptop
+15,83710,83710#Sunbeam,-,Ashutosh Rana,231201149@dbda-mar-2024.com,ashutoshrana1999@gmail.com,7579216177,Dehradun,83710,240344225014,B2,DBDA-MAR-2024,M,208240305,Laptop
+16,83711,83711#Sunbeam,-,Malve Shraddha Baluji,231200328@dbda-mar-2024.com,sbmalve1@gmail.com,8668581592,Nagpur,83711,240344225036,B2,DBDA-MAR-2024,F,208240305,Laptop
+17,83717,83717#Sunbeam,-,Tilekar Tejas Dattatray,231200130@dbda-mar-2024.com,tejastilekar123@gmail.com,8805905820,Pune,83717,240344225057,B2,DBDA-MAR-2024,M,208240305,Laptop
+18,83756,83756#Sunbeam,-,Somane Omkar Pradeep,231201015@dbda-mar-2024.com,omkarsomane2000@gmail.com,7218690545,Thane,83756,240344225054,B1,DBDA-MAR-2024,M,208240305,Laptop
+19,83760,83760#Sunbeam,-,Swati Mahadev Mane,231207589@dbda-mar-2024.com,swmane2000@gmail.com,7499293632,Gadhinglaj,83760,240344225055,B2,DBDA-MAR-2024,F,208240305,Laptop
+20,83789,83789#Sunbeam,-,Ayushi Chandrakar,231206802@dbda-mar-2024.com,ayushicd2001@gmail.com,7869531653,Mahasamund,83789,240344225015,B2,DBDA-MAR-2024,F,208240305,Laptop
+21,83795,83795#Sunbeam,-,Prajwal Dimdeo Charde,231205912@dbda-mar-2024.com,prajwalcharde29@gmail.com,7066767288,Chandrapur,83795,240344225041,B1,DBDA-MAR-2024,M,208240305,Laptop
+22,83830,83830#Sunbeam,-,Deepak Chandra,240100098@dbda-mar-2024.com,deepak.chandra0194@gmail.com,9718956897,Haldwani-I,83830,240344225020,B1,DBDA-MAR-2024,M,208240305,Laptop
+23,83833,83833#Sunbeam,-,Sarode Kartik Sanjay,240101151@dbda-mar-2024.com,kartiks40005@gmail.com,9359174512,Bhusawal,83833,240344225049,B1,DBDA-MAR-2024,M,208240305,Laptop
+24,83852,83852#Sunbeam,-,Aditi Likhar,231202145@dbda-mar-2024.com,alikhar2000@gmail.com,9079564607,Gwalior,83852,240344225003,B1,DBDA-MAR-2024,F,208240305,Laptop
+25,83857,83857#Sunbeam,-,Harshal Nitin Shinde,231207933@dbda-mar-2024.com,harshalnshinde1999@gmail.com,9767012193,Nashik,83857,240344225024,B2,DBDA-MAR-2024,M,208240305,Laptop
+26,83873,83873#Sunbeam,-,Anant Abhay Satpute,240101819@dbda-mar-2024.com,anant.satpute@moderncoe.edu.in,9960110599,Ahmednagar,83873,240344225007,B2,DBDA-MAR-2024,M,208240305,Laptop
+27,83886,83886#Sunbeam,-,Jagtap Adarsh Vijay,231200577@dbda-mar-2024.com,adarshjagtap17@gmail.com,9637127296,Satara,83886,240344225029,B1,DBDA-MAR-2024,M,208240305,Laptop
+28,83887,83887#Sunbeam,-,Adrish Das,231203937@dbda-mar-2024.com,adrishdas53346@gmail.com,9123646428,Kolkata,83887,240344225004,B1,DBDA-MAR-2024,M,208240305,Laptop
+29,83894,83894#Sunbeam,-,Shreya Srivastava,231201709@dbda-mar-2024.com,sri.shreya331@gmail.com,7525084497,Prayagraj,83894,240344225052,B1,DBDA-MAR-2024,F,208240305,Laptop
+30,83895,83895#Sunbeam,-,Prachi Pralhad Patil,231201502@dbda-mar-2024.com,pp26patil@gmail.com,9404571242,Sangli,83895,240344225040,B1,DBDA-MAR-2024,F,208240305,Laptop
+31,83897,83897#Sunbeam,-,Alkesh Santosh Lajurkar,240100762@dbda-mar-2024.com,alkeshlajurkar@gmail.com,8390956095,Daryapur,83897,240344225006,B2,DBDA-MAR-2024,M,208240305,Laptop
+32,83900,83900#Sunbeam,-,Sarvesh Deepak Watkar,231202403@dbda-mar-2024.com,sarveshwatkar@gmail.com,7066108972,Nagpur,83900,240344225050,B1,DBDA-MAR-2024,M,208240305,Laptop
+33,83930,83930#Sunbeam,-,Arya Sanjay Dixit,240100321@dbda-mar-2024.com,aaryastud@gmail.com,7517672047,Thane,83930,240344225013,B1,DBDA-MAR-2024,M,208240305,Laptop
+34,83932,83932#Sunbeam,-,Aniket Vijay Jadhav,231203014@dbda-mar-2024.com,jadhavaniket102@gmail.com,9834206895,Satara,83932,240344225009,B1,DBDA-MAR-2024,M,208240305,Laptop
+35,83934,83934#Sunbeam,-,Tupke Kamlesh Hansraj,240100684@dbda-mar-2024.com,kamleshtupke007@gmail.com,7507047849,Aurangabad,83934,240344225058,B2,DBDA-MAR-2024,M,208240305,Laptop
+36,83935,83935#Sunbeam,-,Anup Satish Mande,231201380@dbda-mar-2024.com,anupmande08@gmail.com,9765124477,Kolhapur,83935,240344225011,B1,DBDA-MAR-2024,M,208240305,Laptop
+37,83943,83943#Sunbeam,-,Harshit Gupta,231203969@dbda-mar-2024.com,harshitgupta6293@gmail.com,8602202048,Gwalior,83943,240344225025,B2,DBDA-MAR-2024,M,208240305,Laptop
+38,83946,83946#Sunbeam,-,Waghmare Kartik Sudhakar,231208805@dbda-mar-2024.com,kartikwaghmare2710@gmail.com,7709089597,Chikhali,83946,240344225059,B2,DBDA-MAR-2024,M,208240305,Laptop
+39,83948,83948#Sunbeam,-,Rane Vivek Ramesh,240100228@dbda-mar-2024.com,ranevivek28@gmail.com,9372952340,Kankavali,83948,240344225046,B1,DBDA-MAR-2024,M,208240305,Laptop
+40,83949,83949#Sunbeam,-,Kharche Puneet Rajendra,240101863@dbda-mar-2024.com,puneetkharche1@gmail.com,9922485376,Bhusawal,83949,240344225032,B1,DBDA-MAR-2024,M,208240305,Laptop
+41,83982,83982#Sunbeam,-,Nagare Mahesh Bhausaheb,231209181@dbda-mar-2024.com,themaheshnagare@gmail.com,8485898761,Beed,83982,240344225037,B2,DBDA-MAR-2024,M,208240305,Laptop
+42,83987,83987#Sunbeam,-,Abhishek Laxman Khade,231200183@dbda-mar-2024.com,khadeabhishek4163@gmail.com,8180070898,Kolhapur,83987,240344225002,B1,DBDA-MAR-2024,M,208240305,Laptop
+43,83992,83992#Sunbeam,-,Bhasar Omkar Mahadev,240100199@dbda-mar-2024.com,omibhasar1998@gmail.com,8862063831,Sangli,83992,240344225017,B1,DBDA-MAR-2024,M,208240305,Laptop
+44,83994,83994#Sunbeam,-,Ajay Karan Biradar,231207347@dbda-mar-2024.com,ajaybiradar300@gmail.com,9881539746,Latur,83994,240344225005,B1,DBDA-MAR-2024,M,208240305,Laptop
+45,84004,84004#Sunbeam,-,Pranita Dattatraya Jadhavdongare,231208810@dbda-mar-2024.com,pranitajadhav71319@gmail.com,9172280104,Omerga,84004,240344225042,B2,DBDA-MAR-2024,F,208240305,Laptop
+46,84033,84033#Sunbeam,-,Bachhav Prajakta Sanjay,240101820@dbda-mar-2024.com,prajaktabachhav85982410@gmail.com,9588654474,Sakri,84033,240344225016,B2,DBDA-MAR-2024,F,208240305,Laptop
+47,84034,84034#Sunbeam,-,Karan Rajkumar Thanvi,240102942@dbda-mar-2024.com,thanvikaran45@gmail.com,7887374972,Buldhana,84034,240344225031,B2,DBDA-MAR-2024,M,208240305,Laptop
+48,84042,84042#Sunbeam,-,Radhika Gajanan Kokate,231200470@dbda-mar-2024.com,radhikagkokate11@gmail.com,9527533148,Khamgaon,84042,240344225044,B2,DBDA-MAR-2024,F,208240305,Laptop
+49,84051,84051#Sunbeam,-,Bidwe Abhishek Sunil,231200148@dbda-mar-2024.com,bidweabhishek22@gmail.com,9604919095,Chikhali,84051,240344225018,B2,DBDA-MAR-2024,M,208240305,Laptop
+50,84053,84053#Sunbeam,-,Tejaswini Manish Pethe,240100574@dbda-mar-2024.com,tejupethe14@gmail.com,9730287870,Ner,84053,240344225056,B1,DBDA-MAR-2024,F,208240305,Laptop
+51,84061,84061#Sunbeam,-,Jadhav Prasad Jagannath,231202447@dbda-mar-2024.com,prasad.jadhav093@gmail.com,8857924209,Satara,84061,240344225028,B1,DBDA-MAR-2024,M,208240305,Laptop
+52,84113,84113#Sunbeam,-,Dhage Amol Ansiram,231209145@dbda-mar-2024.com,amoldhage00@gmail.com,9922766474,Pathari,84113,240344225021,B2,DBDA-MAR-2024,M,208240305,Laptop
+53,84121,84121#Sunbeam,-,Ekale Amol Malikarjun,231200210@dbda-mar-2024.com,amolekale2013@gmail.com,9593283246,Mukhed,84121,240344225023,B1,DBDA-MAR-2024,M,208240305,Laptop
+54,84124,84124#Sunbeam,-,Chaudhari Akshay Sharad,231209404@dbda-mar-2024.com,chaudhari06akshay@gmail.com,7066725518,Jalgaon,84124,240344225019,B1,DBDA-MAR-2024,M,208240305,Laptop
+55,84128,84128#Sunbeam,-,Shweta Kumari,231205203@dbda-mar-2024.com,j.shweta2701@gmail.com,6203562837,Sahibganj,84128,240344225053,B1,DBDA-MAR-2024,F,208240305,Laptop
+56,84135,84135#Sunbeam,-,Rahul Singh,240100705@dbda-mar-2024.com,rs5938993@gmail.com,6203295869,Buxer,84135,240344225045,B2,DBDA-MAR-2024,M,208240305,Laptop
+57,84169,84169#Sunbeam,-,Anshu Lalwani,231200428@dbda-mar-2024.com,anshulalwani1223@gmail.com,8965007089,Shahdol,84169,240344225010,B2,DBDA-MAR-2024,F,208240305,Laptop
+58,84188,84188#Sunbeam,-,Sangole Hemant Ravindra,240101822@dbda-mar-2024.com,hemantsangole193@gmail.com,7744062919,Aurangabad,84188,240344225047,B1,DBDA-MAR-2024,M,208240305,Laptop
+59,84194,84194#Sunbeam,-,Kokare Swaraj Ashok,240101641@dbda-mar-2024.com,kokaremanda@gmail.com,9665807041,Pune,84194,240344225033,B2,DBDA-MAR-2024,M,208240305,Laptop
+60,84210,84210#Sunbeam,-,Anurag Singh,231206218@dbda-mar-2024.com,anurag23589@gmail.com,8951241022,Sasaram,84210,240344225012,B2,DBDA-MAR-2024,M,208240305,Laptop

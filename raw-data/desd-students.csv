@@ -1,0 +1,118 @@
+Sr. No.,username,password,firstname,lastname,email,email2,phone1,city,institution,idnumber,department,course1,Gender,BatchID,HasLaptop
+1,83627,83627#Sunbeam,-,Patil Samir Vilas,231201952@desd-mar-2024.com,sameerpatil20178@gmail.com,9834685812,Jalgaon,83627,240344230069,E3,DESD-MAR-2024,M,207240305,Laptop
+2,83642,83642#Sunbeam,-,Deeksha Rathore,231200715@desd-mar-2024.com,engdiksha@gmail.com,8839316264,Raipur,83642,240344230027,E2,DESD-MAR-2024,F,207240305,Laptop
+3,83649,83649#Sunbeam,-,Tendolkar Kranti Gopal,231202905@desd-mar-2024.com,krantitendolkar@gmail.com,9422565572,Sawantwadi,83649,240344230102,E1,DESD-MAR-2024,F,207240305,Laptop
+4,83657,83657#Sunbeam,-,Akash Agrawal,231201879@desd-mar-2024.com,agrawalakash.aka@gmail.com,9753007626,Durg,83657,240344230004,E3,DESD-MAR-2024,M,207240305,Laptop
+5,83667,83667#Sunbeam,-,Omkar Ankush Kashid,231203083@desd-mar-2024.com,omkarkashidok@gmail.com,7720954175,Pune,83667,240344230060,E3,DESD-MAR-2024,M,207240305,Laptop
+6,83670,83670#Sunbeam,-,Saurabh Rajendra Mhaske,231203444@desd-mar-2024.com,saurabh86055@gmail.com,9130694991,Nashik,83670,240344230085,E1,DESD-MAR-2024,M,207240305,Laptop
+7,83678,83678#Sunbeam,-,Shinde Poonam Rajendra Manisha,231202691@desd-mar-2024.com,poonamshinde1912@gmail.com,7066709592,Alibagh,83678,240344230090,E1,DESD-MAR-2024,F,207240305,Laptop
+8,83680,83680#Sunbeam,-,Damani Ramya Bharatbhai,231201500@desd-mar-2024.com,damani.ramya309@gmail.com,8734061042,Bhavnagar,83680,240344230026,E1,DESD-MAR-2024,M,207240305,PC
+9,83685,83685#Sunbeam,-,Pratik Pandurang Jadhav,231200419@desd-mar-2024.com,pratikjadhav6692@gmail.com,9561192687,Solapur,83685,,E2,DESD-MAR-2024,M,207240305,Laptop
+10,83692,83692#Sunbeam,-,Anushree Abhayraj Gaikwad,231203399@desd-mar-2024.com,anushreegaikwad27@gmail.com,8805128451,Satara,83692,240344230011,E2,DESD-MAR-2024,F,207240305,Laptop
+11,83694,83694#Sunbeam,-,Meenal Shrivastava,231208245@desd-mar-2024.com,meenalkhare027@gmail.com,7987050090,Rajandgaon,83694,240344230052,E2,DESD-MAR-2024,F,207240305,Laptop
+12,83697,83697#Sunbeam,-,Abhay Soni,231206716@desd-mar-2024.com,abhaysoni512@gmail.com,9179165483,Rewa,83697,240344230001,E1,DESD-MAR-2024,M,207240305,Laptop
+13,83703,83703#Sunbeam,-,Patil Shubham Sunil,231202647@desd-mar-2024.com,shubhampatil5799@gmail.com,8237954255,Karad,83703,240344230070,E1,DESD-MAR-2024,M,207240305,Laptop
+14,83707,83707#Sunbeam,-,Sawant Shrikrishna Vidyadhar Sandhya,231200030@desd-mar-2024.com,shrikrishnasawant31@gmail.com,9653411257,Mumbai,83707,240344230086,E1,DESD-MAR-2024,M,207240305,Laptop
+15,83708,83708#Sunbeam,-,Barhate Navnita Mukesh,240100260@desd-mar-2024.com,navnitabarhate22@gmail.com,8263004939,Jalgaon,83708,240344230019,E3,DESD-MAR-2024,F,207240305,Laptop
+16,83712,83712#Sunbeam,-,Muskan Prajapati,231208593@desd-mar-2024.com,muskanprajapati0609@gmail.com,8303408664,Ayodhya,83712,240344230056,E3,DESD-MAR-2024,F,207240305,Laptop
+17,83722,83722#Sunbeam,-,Patil Bhagyashri Dattatray,231208301@desd-mar-2024.com,patilbhagyashri976@gmail.com,9420302355,Latur,83722,,E2,DESD-MAR-2024,F,207240305,Laptop
+18,83755,83755#Sunbeam,-,Bansode Vivek Sakhahari,231202604@desd-mar-2024.com,vivekbansode411@gmail.com,9096066595,Ahmednagar,83755,240344230018,E2,DESD-MAR-2024,M,207240305,Laptop
+19,83757,83757#Sunbeam,-,Ghodake Pandurang Shahaji,231205999@desd-mar-2024.com,pandurangghodake2000@gmail.com,9403705004,Tasgaon,83757,240344230031,E1,DESD-MAR-2024,M,207240305,Laptop
+20,83779,83779#Sunbeam,-,Sumit Tushar Sutar,231202375@desd-mar-2024.com,sutarumesh127@gmail.com,9657354479,Nashik,83779,240344230100,E3,DESD-MAR-2024,M,207240305,Laptop
+21,83780,83780#Sunbeam,-,Gayatri Arun Nikam,231203729@desd-mar-2024.com,gayatrinikam2750@gmail.com,9370963173,Nashik,83780,240344230030,E3,DESD-MAR-2024,F,207240305,Laptop
+22,83783,83783#Sunbeam,-,Ghorpade Sourabh Suresh,240102407@desd-mar-2024.com,ghorpadesourabh2001@gmail.com,8766939673,Phaltan,83783,240344230033,E3,DESD-MAR-2024,M,207240305,Laptop
+23,83790,83790#Sunbeam,-,Kalwad Aditya Suhas,231205739@desd-mar-2024.com,adityakalwad2000@gmail.com,7709496878,Kolhapur,83790,240344230041,E3,DESD-MAR-2024,M,207240305,Laptop
+24,83791,83791#Sunbeam,-,Borase Shubham Shekhar,231201167@desd-mar-2024.com,shubhamborse3899@gmail.com,8806013393,Nashik,83791,240344230023,E3,DESD-MAR-2024,M,207240305,Laptop
+25,83803,83803#Sunbeam,-,Shraddha Prashant Kokane,231200569@desd-mar-2024.com,kokaneshraddha9@gmail.com,9834379889,Sangli,83803,240344230094,E1,DESD-MAR-2024,F,207240305,Laptop
+26,83804,83804#Sunbeam,-,Badakh Nikhil Gorakshanath,231201163@desd-mar-2024.com,badakhng1999@gmail.com,7758916272,Shri Rampur,83804,240344230016,E3,DESD-MAR-2024,M,207240305,Laptop
+27,83805,83805#Sunbeam,-,Gajare Gorakh Namdev,240102782@desd-mar-2024.com,gajaregorakh5055@gmail.com,9604096352,Solapur,83805,240344230029,E1,DESD-MAR-2024,M,207240305,Laptop
+28,83806,83806#Sunbeam,-,Udavant  Omkar Arun,231201164@desd-mar-2024.com,omkarudavant133@gmail.com,9588632440,Aurangabad,83806,240344230106,E3,DESD-MAR-2024,M,207240305,Laptop
+29,83810,83810#Sunbeam,-,Shinde Mayuresh Shivanand,231200227@desd-mar-2024.com,mayureshshindems222@gmail.com,9145126128,Satara,83810,240344230089,E1,DESD-MAR-2024,M,207240305,Laptop
+30,83812,83812#Sunbeam,-,Waghmare Parimal Shamuwel,231202653@desd-mar-2024.com,pariwaghmare32@gmail.com,7038289428,Pune,83812,240344230107,E2,DESD-MAR-2024,M,207240305,Laptop
+31,83813,83813#Sunbeam,-,Mahajan Snehal Dhanraj,231201166@desd-mar-2024.com,mahajansnehal227@gmail.com,8862011764,Nashik,83813,240344230048,E3,DESD-MAR-2024,F,207240305,Laptop
+32,83818,83818#Sunbeam,-,Harsh Soni,240100079@desd-mar-2024.com,soniharsh026@gmail.com,8959408774,Narsinghpur,83818,240344230036,E1,DESD-MAR-2024,M,207240305,Laptop
+33,83820,83820#Sunbeam,-,Thosar Vinayak Sunil,231202316@desd-mar-2024.com,thosarvinayak987@gmail.com,8554902347,Jalgaon,83820,240344230105,E3,DESD-MAR-2024,M,207240305,Laptop
+34,83821,83821#Sunbeam,-,Priyanshu Prafullkumar Bhagat,231207603@desd-mar-2024.com,bpriyanshu.kkw@gmail.com,7410178895,Chandrapur,83821,240344230077,E3,DESD-MAR-2024,M,207240305,Laptop
+35,83839,83839#Sunbeam,-,Pratham Atul Chudiwal,231206223@desd-mar-2024.com,prathamchudiwal123@gmail.com,7841034253,Aurangabad,83839,240344230073,E3,DESD-MAR-2024,M,207240305,Laptop
+36,83841,83841#Sunbeam,-,Thite Sandesh Pandit,231206270@desd-mar-2024.com,sandeshgpp@gmail.com,8446109605,Pune,83841,240344230103,E2,DESD-MAR-2024,M,207240305,Laptop
+37,83842,83842#Sunbeam,-,Nimkar Srushti Keshao,231202555@desd-mar-2024.com,srushtinimkar2001@gmail.com,7385879569,Bhandara,83842,240344230059,E2,DESD-MAR-2024,F,207240305,Laptop
+38,83845,83845#Sunbeam,-,Thorat Anurag Suhas,231209190@desd-mar-2024.com,anuragthorat10@gmail.com,8796723280,Kolhapur,83845,240344230104,E1,DESD-MAR-2024,M,207240305,Laptop
+39,83846,83846#Sunbeam,-,Shubham Vilas Bhadke,231203109@desd-mar-2024.com,shubhambhadke148@gmail.com,9588697162,Sangamner,83846,240344230096,E2,DESD-MAR-2024,M,207240305,Laptop
+40,83847,83847#Sunbeam,-,Ankit Sumedh Telgote,231200078@desd-mar-2024.com,anikettelgote2018@gmail.com,7666030577,Akola,83847,240344230010,E3,DESD-MAR-2024,M,207240305,Laptop
+41,83854,83854#Sunbeam,-,Shyam Jagdish Wanjari,231206828@desd-mar-2024.com,shyamwanjari763@gmail.com,9096051562,Saoner,83854,240344230097,E3,DESD-MAR-2024,M,207240305,Laptop
+42,83860,83860#Sunbeam,-,Tejas Dnyaneshwar Gatkal,231201983@desd-mar-2024.com,gatkaltejas@gmail.com,8605473662,Mul,83860,240344230101,E1,DESD-MAR-2024,M,207240305,Laptop
+43,83865,83865#Sunbeam,-,Bhosale Jyoti Sanjay,231207427@desd-mar-2024.com,jsbhosale9696@gmail.com,7666480380,Indapur,83865,240344230022,E1,DESD-MAR-2024,F,207240305,Laptop
+44,83868,83868#Sunbeam,-,Wakodikar Hardik Vijay,231200171@desd-mar-2024.com,wakodikarhardik17@gmail.com,7600800565,Vadodara,83868,240344230110,E2,DESD-MAR-2024,M,207240305,Laptop
+45,83872,83872#Sunbeam,-,Palle Bharath,231204237@desd-mar-2024.com,bharath.palle09@gmail.com,9347836942,Hyderabad,83872,240344230062,E3,DESD-MAR-2024,M,207240305,Laptop
+46,83881,83881#Sunbeam,-,Borate Nikhil Bharat,240102408@desd-mar-2024.com,nikhilborate1998@gmail.com,7768839367,Satara,83881,240344230024,E3,DESD-MAR-2024,M,207240305,Laptop
+47,83892,83892#Sunbeam,-,Rutuja Jagannath Thorat,231204335@desd-mar-2024.com,rututhorat2001@gmail.com,9561336109,Karad,83892,240344230080,E1,DESD-MAR-2024,F,207240305,Laptop
+48,83896,83896#Sunbeam,-,Amrut Balaji Jadhav,231208470@desd-mar-2024.com,jadhavamrut982@gmail.com,9022618657,Latur,83896,240344230007,E3,DESD-MAR-2024,M,207240305,Laptop
+49,83898,83898#Sunbeam,-,Gophane Kartik Gajanan,231202319@desd-mar-2024.com,kartikgophane1820@gmail.com,8855029367,Yeotmal,83898,240344230034,E3,DESD-MAR-2024,M,207240305,Laptop
+50,83899,83899#Sunbeam,-,Sanskruti Shashikant Mhatre,231203880@desd-mar-2024.com,mhatresanskruti21@gmail.com,9326264146,Kalyan,83899,240344230084,E3,DESD-MAR-2024,F,207240305,Laptop
+51,83912,83912#Sunbeam,-,Bachiphale Abhishek Suryakant,231208471@desd-mar-2024.com,abhishekbachiphale@gmail.com,7385400107,Latur,83912,240344230015,E3,DESD-MAR-2024,M,207240305,Laptop
+52,83915,83915#Sunbeam,-,Preetam Manish Surve,231200691@desd-mar-2024.com,pritamsurve4@gmail.com,7769950071,Khopoli,83915,240344230075,E1,DESD-MAR-2024,M,207240305,Laptop
+53,83916,83916#Sunbeam,-,Banait Ghanshyam Sanjay,231201954@desd-mar-2024.com,ghanshyambanait@gmail.com,7350832238,Jalgaon,83916,240344230017,E3,DESD-MAR-2024,M,207240305,Laptop
+54,83917,83917#Sunbeam,-,Patil Rajdatt Sudhakar,231202416@desd-mar-2024.com,rajdattpatil76@gmail.com,7558691197,Kalyan,83917,240344230068,E2,DESD-MAR-2024,M,207240305,Laptop
+55,83919,83919#Sunbeam,-,Parth Ajaykumar Lohar,231206007@desd-mar-2024.com,luharparth111@gmail.com,9081421286,Surat,83919,240344230063,E3,DESD-MAR-2024,M,207240305,Laptop
+56,83921,83921#Sunbeam,-,Akshay Ravindra Kenjale,231206144@desd-mar-2024.com,akshay.kenjale1711@gmail.com,7709054478,Satara,83921,240344230005,E1,DESD-MAR-2024,M,207240305,Laptop
+57,83924,83924#Sunbeam,-,Langore Rohan Chandrashekhar,231203975@desd-mar-2024.com,langorerohan57@gmail.com,9096938166,Ahmednagar,83924,240344230045,E2,DESD-MAR-2024,M,207240305,Laptop
+58,83929,83929#Sunbeam,-,Patil Omkar Abaji,231207390@desd-mar-2024.com,omapatil221@gmail.com,9579194294,Shirala,83929,240344230066,E1,DESD-MAR-2024,M,207240305,Laptop
+59,83933,83933#Sunbeam,-,Prajakta Bansiddha Pujari,240101555@desd-mar-2024.com,prajaktapujari93@gmail.com,8999377785,Pune,83933,240344230072,E2,DESD-MAR-2024,F,207240305,Laptop
+60,83941,83941#Sunbeam,-,Yash Atul Jagtap,231202944@desd-mar-2024.com,yashjagtap920@gmail.com,9518336364,Kolhapur,83941,240344230111,E1,DESD-MAR-2024,M,207240305,Laptop
+61,83944,83944#Sunbeam,-,Patil Parag Pralhad,231201035@desd-mar-2024.com,paragpatil744@gmail.com,7774985588,Jalgaon,83944,240344230067,E1,DESD-MAR-2024,M,207240305,Laptop
+62,83951,83951#Sunbeam,-,Attarde Jitendra Anil,231203850@desd-mar-2024.com,jituaattarde5001@gmail.com,9168040307,Jalgaon,83951,240344230014,E1,DESD-MAR-2024,M,207240305,Laptop
+63,83972,83972#Sunbeam,-,Murchite Chetan Shital,231207459@desd-mar-2024.com,chetanmurchitte@gmail.com,9922824154,Ichalkaranji,83972,240344230054,E1,DESD-MAR-2024,M,207240305,Laptop
+64,83973,83973#Sunbeam,-,Poonam Suresh Kokitkar,231209352@desd-mar-2024.com,poonamkokitkar19@gmail.com,9130174129,Gadhinglaj,83973,240344230071,E1,DESD-MAR-2024,F,207240305,Laptop
+65,83975,83975#Sunbeam,-,Shrutika Ajay Ambekar,240100371@desd-mar-2024.com,shrutikaambekar26@gmail.com,7558399436,Nashik,83975,240344230095,E2,DESD-MAR-2024,F,207240305,Laptop
+66,83980,83980#Sunbeam,-,Sonawane Dhanraj Shrikrushna,231200175@desd-mar-2024.com,dhanraj22102001@gmail.com,9022198114,Jalgaon,83980,240344230098,E1,DESD-MAR-2024,M,207240305,Laptop
+67,83984,83984#Sunbeam,-,Mamta Borade,240101286@desd-mar-2024.com,mamtaborade82@gmail.com,8208424612,Nashik,83984,240344230049,E2,DESD-MAR-2024,F,207240305,Laptop
+68,83989,83989#Sunbeam,-,Akshay Vijay Potadar,240100017@desd-mar-2024.com,akshaypotdar7949@gmail.com,7887334546,Shirala,83989,240344230006,E1,DESD-MAR-2024,M,207240305,Laptop
+69,83993,83993#Sunbeam,-,Ramteke Ashaya Sanjay,231203690@desd-mar-2024.com,ashayaramteke@gmail.com,9997557846,Nagpur,83993,240344230078,E3,DESD-MAR-2024,M,207240305,Laptop
+70,83995,83995#Sunbeam,-,Pritesh Prakash Lingade,240100014@desd-mar-2024.com,pritesh.lingade@gmail.com,7972192798,Kolhapur,83995,240344230076,E1,DESD-MAR-2024,M,207240305,Laptop
+71,83997,83997#Sunbeam,-,Sakshi Rajesh Wadje,231208618@desd-mar-2024.com,sakshiwadje2002@gmail.com,8208122068,Nashik,83997,240344230081,E3,DESD-MAR-2024,F,207240305,Laptop
+72,84000,84000#Sunbeam,-,Nikita Dhananjay Kusnure,231205373@desd-mar-2024.com,nikitakusnurendk01@gmail.com,7350934544,Latur,84000,240344230058,E3,DESD-MAR-2024,F,207240305,Laptop
+73,84003,84003#Sunbeam,-,Shinde Pranav Ashok,240100192@desd-mar-2024.com,pranavshinde939@gmail.com,9561407855,Nashik,84003,240344230091,E2,DESD-MAR-2024,M,207240305,Laptop
+74,84008,84008#Sunbeam,-,Sayli Rajiv Polakhare,231206432@desd-mar-2024.com,saylipolakhare07@gmail.com,7028443159,Nagpur,84008,240344230087,E2,DESD-MAR-2024,F,207240305,Laptop
+75,84018,84018#Sunbeam,-,Abhishek Kumar,231206983@desd-mar-2024.com,fntushh404@gmail.com,7485022668,Patna,84018,240344230003,E3,DESD-MAR-2024,M,207240305,Laptop
+76,84020,84020#Sunbeam,-,Patil Aniket Sanjay,240100013@desd-mar-2024.com,aniket.patil.712819@gmail.com,8956806992,Sangli,84020,240344230064,E1,DESD-MAR-2024,M,207240305,Laptop
+77,84023,84023#Sunbeam,-,Gyan Chandra,231207528@desd-mar-2024.com,gyan.chandra131@gmail.com,6397476611,Basti,84023,240344230035,E3,DESD-MAR-2024,M,207240305,PC
+78,84024,84024#Sunbeam,-,Waghmode Akshada Sudhir,231208273@desd-mar-2024.com,akshadawaghmode2001@gmail.com,7558561133,Sangli,84024,240344230108,E1,DESD-MAR-2024,F,207240305,Laptop
+79,84032,84032#Sunbeam,-,Bhagyashri Somnath Jagtap,231202040@desd-mar-2024.com,b8605787060@gmail.com,8605787060,Nashik,84032,240344230020,E3,DESD-MAR-2024,F,207240305,Laptop
+80,84059,84059#Sunbeam,-,Honmane Aniket Balaso,231207787@desd-mar-2024.com,honmaneani1998@gmail.com,7276524101,Karad,84059,240344230037,E1,DESD-MAR-2024,M,207240305,Laptop
+81,84060,84060#Sunbeam,-,Shinde Sneha Shivaji,231209126@desd-mar-2024.com,snehass1612@gmail.com,9307730565,Jaysingpur,84060,240344230093,E1,DESD-MAR-2024,F,207240305,Laptop
+82,84063,84063#Sunbeam,-,Pratik Dnyandeo Badhe,231204034@desd-mar-2024.com,pratikbadhediv123@gmail.com,7972636993,Nashik,84063,240344230074,E2,DESD-MAR-2024,M,207240305,Laptop
+83,84064,84064#Sunbeam,-,Lengare Ankita Popat,231203020@desd-mar-2024.com,ankulengare0294@gmail.com,9284240007,Miraj,84064,240344230046,E1,DESD-MAR-2024,F,207240305,Laptop
+84,84065,84065#Sunbeam,-,Abhijit Sunil Jadhav,240100284@desd-mar-2024.com,aj81836@gmail.com,7768894663,Ahmednagar,84065,240344230002,E2,DESD-MAR-2024,M,207240305,Laptop
+85,84067,84067#Sunbeam,-,K.Divya,231208745@desd-mar-2024.com,divyareddy2743@gmail.com,9390019246,Vicarabad (Vikarabad),84067,240344230040,E2,DESD-MAR-2024,F,207240305,PC
+86,84068,84068#Sunbeam,-,Marsone Shital Vasantrao,231205374@desd-mar-2024.com,shitalmarsone@gmail.com,9075353327,Latur,84068,240344230051,E3,DESD-MAR-2024,F,207240305,Laptop
+87,84071,84071#Sunbeam,-,Ashutosh Mahadeo Sonawane,231207702@desd-mar-2024.com,asonawane00111@gmail.com,8459451317,Ahmednagar,84071,240344230012,E2,DESD-MAR-2024,M,207240305,Laptop
+88,84075,84075#Sunbeam,-,Gaikwad Vaibhav Dinkar,231206784@desd-mar-2024.com,gaikwadvd96@gmail.com,9665361929,Satara,84075,240344230028,E2,DESD-MAR-2024,M,207240305,Laptop
+89,84080,84080#Sunbeam,-,Sanjay Saini,231201057@desd-mar-2024.com,sanjay1991saini@gmail.com,9050787322,Narnaul,84080,240344230083,E2,DESD-MAR-2024,M,207240305,Laptop
+90,84083,84083#Sunbeam,-,Kansepatil Durva Jivanchandra,231205913@desd-mar-2024.com,durvakansepatil1234@gmail.com,9922016720,Nashik,84083,240344230042,E2,DESD-MAR-2024,F,207240305,Laptop
+91,84088,84088#Sunbeam,-,Atharva Sunil Mahajan,231202246@desd-mar-2024.com,31mahajanatharva@gmail.com,9922064901,Pune,84088,240344230013,E3,DESD-MAR-2024,M,207240305,Laptop
+92,84089,84089#Sunbeam,-,Shinde Sanket Janardhan,231205002@desd-mar-2024.com,sanketshinde393@gmail.com,8424876274,Kalyan,84089,240344230092,E2,DESD-MAR-2024,M,207240305,Laptop
+93,84092,84092#Sunbeam,-,Rucha Vilasrao Joshi,231203126@desd-mar-2024.com,ruchavjoshi16@gmail.com,7498637541,Wardha,84092,240344230079,E2,DESD-MAR-2024,F,207240305,Laptop
+94,84112,84112#Sunbeam,-,Aniket Avinash Kadam,231200611@desd-mar-2024.com,aniketkadam319@gmail.com,9403402083,Pandharpur,84112,240344230009,E1,DESD-MAR-2024,M,207240305,Laptop
+95,84114,84114#Sunbeam,-,Waghmode Samadhan Chandrakant,231201841@desd-mar-2024.com,waghmodesamadhan2017@gmail.com,8698276467,Pandharpur,84114,240344230109,E2,DESD-MAR-2024,M,207240305,Laptop
+96,84116,84116#Sunbeam,-,Kaushal Kumar Soni,231201402@desd-mar-2024.com,kaushal.ece21@gmail.com,9471582239,Jamshedpur,84116,240344230043,E2,DESD-MAR-2024,M,207240305,Laptop
+97,84123,84123#Sunbeam,-,Sudarshan Krushnat Patil,231209242@desd-mar-2024.com,sudarshanp20901@gmail.com,9822149327,Islampur,84123,240344230099,E1,DESD-MAR-2024,M,207240305,Laptop
+98,84130,84130#Sunbeam,-,Indore Yash Balasaheb,240101495@desd-mar-2024.com,indoreyash3002@gmail.com,8459080740,Mancher,84130,240344230038,E1,DESD-MAR-2024,M,207240305,Laptop
+99,84131,84131#Sunbeam,-,Chikane Rushikesh Rajeshwar,231202557@desd-mar-2024.com,rushikeshchikane77@gmail.com,9552932780,Parbhani,84131,240344230025,E2,DESD-MAR-2024,M,207240305,Laptop
+100,84137,84137#Sunbeam,-,Narkhede Yugandhar Anil,231203076@desd-mar-2024.com,yashnarkhede04@gmail.com,7385340111,Bhusawal,84137,240344230057,E2,DESD-MAR-2024,M,207240305,Laptop
+101,84138,84138#Sunbeam,-,Gat Somnath Shivaji,231204154@desd-mar-2024.com,gatsomnath@gmail.com,9373533082,Parbhani,84138,,E2,DESD-MAR-2024,M,207240305,PC
+102,84140,84140#Sunbeam,-,Lohakare Bhakti Shivanand,231208013@desd-mar-2024.com,bhaktilohakare01@gmail.com,9356292038,Shevgaon,84140,240344230047,E2,DESD-MAR-2024,F,207240305,Laptop
+103,84142,84142#Sunbeam,-,Shinde Jitendra Suresh,231204500@desd-mar-2024.com,jitendrashinde1997@gmail.com,9768462243,Mumbai,84142,240344230088,E3,DESD-MAR-2024,M,207240305,Laptop
+104,84147,84147#Sunbeam,-,Ghodke Pooja Pranav,231201326@desd-mar-2024.com,sonarpoojar@gmail.com,9730404680,Pune,84147,240344230032,E3,DESD-MAR-2024,F,207240305,Laptop
+105,84153,84153#Sunbeam,-,Ingle Shashank Arjun,231208957@desd-mar-2024.com,shashank227421@gmail.com,9763242405,Malkapur,84153,240344230039,E2,DESD-MAR-2024,M,207240305,Laptop
+106,84161,84161#Sunbeam,-,Sangam Shinde,240101796@desd-mar-2024.com,sangamshinde1234@gmail.com,7028562954,Nanded,84161,240344230082,E3,DESD-MAR-2024,M,207240305,Laptop
+107,84186,84186#Sunbeam,-,Manish Kumar Sinha,240101677@desd-mar-2024.com,manish96sinha@gmail.com,7389650509,Durg,84186,240344230050,E3,DESD-MAR-2024,M,207240305,Laptop
+108,84190,84190#Sunbeam,-,Gayatri Ganganna Pannam,240103048@desd-mar-2024.com,gayatripannam124@gmail.com,7720074167,Pune,84190,,E1,DESD-MAR-2024,F,207240305,Laptop
+109,84191,84191#Sunbeam,-,Musale Sudarshan Bharat,231208387@desd-mar-2024.com,sudarshanmusale1406@gmail.com,7410157587,Hingoli,84191,240344230055,E2,DESD-MAR-2024,M,207240305,Laptop
+110,84195,84195#Sunbeam,-,Omkar Dattatray More,231205776@desd-mar-2024.com,omkarmore8284@gmail.com,9404352278,Solapur,84195,240344230061,E1,DESD-MAR-2024,M,207240305,Laptop
+111,84201,84201#Sunbeam,-,Kore Sangram,240101612@desd-mar-2024.com,sangramk700@gmail.com,9767217174,Tuljapur,84201,240344230044,E1,DESD-MAR-2024,M,207240305,PC
+112,84211,84211#Sunbeam,-,Patil Chetan Gyanu,231207737@desd-mar-2024.com,erchetanpatil868@gmail.com,7020552170,Jalgaon,84211,240344230065,E2,DESD-MAR-2024,M,207240305,Laptop
+113,84214,84214#Sunbeam,-,Bhoi Sanket Suresh,240101533@desd-mar-2024.com,bhoisanket1522@gmail.com,7620409008,Achalpur,84214,240344230021,E3,DESD-MAR-2024,M,207240305,Laptop
+114,84223,84223#Sunbeam,-,Aman Singh,240102642@desd-mar-2024.com,amansingh4079@gmail.com,7726095935,Mohania,84223,,E3,DESD-MAR-2024,M,207240305,Laptop
+115,84235,84235#Sunbeam,-,Amruta Balaso Jadhav,231204303@desd-mar-2024.com,amrutaj9696@gmail.com,7020903818,Pune,84235,240344230008,E1,DESD-MAR-2024,F,207240305,PC
+116,84238,84238#Sunbeam,-,Mohmmedjunaid A Namajkatti,240100879@desd-mar-2024.com,junaid.ece.rymec@gmail.com,9110221223,Hungund,84238,240344230053,E2,DESD-MAR-2024,M,207240305,Laptop
+117,84343,84343#Sunbeam,-,Varsha Sutar,230105759@desd-mar-2024.com,varshasutar16@gmail.com,8657577575,Satara,84343,,E2,DESD-MAR-2024,F,207240305,Laptop

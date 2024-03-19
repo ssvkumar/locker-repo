@@ -1,0 +1,44 @@
+Sr. No.,username,password,firstname,lastname,email,email2,phone1,city,institution,idnumber,department,course1,Gender,BatchID,HasLaptop
+1,83625,83625#Sunbeam,-,Jayesh Ramesh Mahajan,231205744@ditiss-mar-2024.com,jayeshmahajan2001@gmail.com,9022211336,Kalyan,83625,240344223013,C1,DITISS-MAR-2024,M,209240305,Laptop
+2,83638,83638#Sunbeam,-,Modi Rupesh Ganesh,240100730@ditiss-mar-2024.com,rupeshmodi2804@gmail.com,7038051312,Latur,83638,240344223019,C1,DITISS-MAR-2024,M,209240305,Laptop
+3,83674,83674#Sunbeam,-,Raut Shrikant Rajendra,231201673@ditiss-mar-2024.com,shrikant4raut@gmail.com,8788272234,Ahmednagar,83674,240344223030,C1,DITISS-MAR-2024,M,209240305,Laptop
+4,83683,83683#Sunbeam,-,Harsh Raj,231206146@ditiss-mar-2024.com,harshraj2k12@gmail.com,6200577332,Patna,83683,240344223011,C2,DITISS-MAR-2024,M,209240305,Laptop
+5,83696,83696#Sunbeam,-,Saloni Hemant Junghare,231200504@ditiss-mar-2024.com,jungharesaloni@gmail.com,9766784995,Amravati,83696,240344223031,C2,DITISS-MAR-2024,F,209240305,Laptop
+6,83701,83701#Sunbeam,-,Mayur Ganesh Akotkar,231206178@ditiss-mar-2024.com,mayurakotkar011@gmail.com,7385259635,Amravati,83701,240344223017,C1,DITISS-MAR-2024,M,209240305,Laptop
+7,83702,83702#Sunbeam,-,Patil Kiran Laxmikant,231206304@ditiss-mar-2024.com,kiranpatil6152@gmail.com,8652392289,Yawal,83702,240344223024,C1,DITISS-MAR-2024,M,209240305,Laptop
+8,83715,83715#Sunbeam,-,Aditi Sudhakar Bhujbal,231204699@ditiss-mar-2024.com,aditi.b0201@gmail.com,9561368938,Pune,83715,240344223001,C1,DITISS-MAR-2024,F,209240305,Laptop
+9,83718,83718#Sunbeam,-,Shelke Rahul Navin,240100958@ditiss-mar-2024.com,rahulshelke1201@gmail.com,8411003287,Basmatnagar,83718,240344223034,C1,DITISS-MAR-2024,M,209240305,Laptop
+10,83751,83751#Sunbeam,-,Bhawesh Singh Bisht,231204087@ditiss-mar-2024.com,bhaweshbisht03@gmail.com,6396473388,Ghaziabad+Dadri,83751,240344223005,C2,DITISS-MAR-2024,M,209240305,Laptop
+11,83759,83759#Sunbeam,-,Neha Devidas Rote,240102202@ditiss-mar-2024.com,nehadrote29@gmail.com,7387284621,Jalgaon,83759,240344223021,C2,DITISS-MAR-2024,F,209240305,Laptop
+12,83781,83781#Sunbeam,-,Ishan Srivastava,231207363@ditiss-mar-2024.com,ishan.shiva1@gmail.com,7651898630,Varanasi,83781,240344223012,C2,DITISS-MAR-2024,M,209240305,Laptop
+13,83787,83787#Sunbeam,-,Prathamesh Deepak Karve,240100516@ditiss-mar-2024.com,prathamesh2906karve@gmail.com,7588588403,Sangli,83787,240344223029,C1,DITISS-MAR-2024,M,209240305,Laptop
+14,83802,83802#Sunbeam,-,Deochake Kaustubh Kalpesh,231204471@ditiss-mar-2024.com,kaustubhdeochake7020@gmail.com,8149160620,Pune,83802,240344223008,C1,DITISS-MAR-2024,M,209240305,Laptop
+15,83826,83826#Sunbeam,-,Sneha Tanaji Khade,231207432@ditiss-mar-2024.com,khadesneha01@gmail.com,9146420149,Mahaswad,83826,240344223035,C1,DITISS-MAR-2024,F,209240305,Laptop
+16,83837,83837#Sunbeam,-,Piyush Rakesh Tiwari,231205522@ditiss-mar-2024.com,kaushalt8412@gmail.com,8412959903,Nagpur,83837,240344223027,C2,DITISS-MAR-2024,M,209240305,Laptop
+17,83870,83870#Sunbeam,-,Panchal Umesh Shivdatt,240102197@ditiss-mar-2024.com,umeshpanchal5255@gmail.com,9767913698,Latur,83870,240344223023,C2,DITISS-MAR-2024,M,209240305,Laptop
+18,83877,83877#Sunbeam,-,Sanghamitra Rajaram Gawai,240102380@ditiss-mar-2024.com,sanghamitragawai97@gmail.com,7972373124,Pune,83877,240344223033,C1,DITISS-MAR-2024,F,209240305,Laptop
+19,83885,83885#Sunbeam,-,Gosavi Kalyani Dnyaneshwar,240102003@ditiss-mar-2024.com,kalyanidgosavi2000@gmail.com,9699798431,Ahmednagar,83885,240344223010,C2,DITISS-MAR-2024,F,209240305,PC
+20,83925,83925#Sunbeam,-,Kshitij Shrivastava,231205308@ditiss-mar-2024.com,kshitijshrivastava2810@gmail.com,9172429894,Khandwa,83925,240344223016,C2,DITISS-MAR-2024,M,209240305,Laptop
+21,83938,83938#Sunbeam,-,Kakade Neha Vikram,231208961@ditiss-mar-2024.com,nehakakade2001@gmail.com,9175001445,Baramati,83938,240344223015,C1,DITISS-MAR-2024,F,209240305,Laptop
+22,83958,83958#Sunbeam,-,Bedre Snehal Sopanrao,231209109@ditiss-mar-2024.com,snehalbedre2810@gmail.com,9923252003,Beed,83958,240344223004,C2,DITISS-MAR-2024,F,209240305,Laptop
+23,83965,83965#Sunbeam,-,Anjali Mahendrasingh Bais,231202837@ditiss-mar-2024.com,anjalibais275@gmail.com,7448262918,Chandrapur,83965,240344223002,C2,DITISS-MAR-2024,F,209240305,Laptop
+24,83983,83983#Sunbeam,-,Gagare Gauri Suresh,231209007@ditiss-mar-2024.com,gaurigagare704@gmail.com,9623903598,Ahmednagar,83983,240344223009,C2,DITISS-MAR-2024,F,209240305,Laptop
+25,83985,83985#Sunbeam,-,Patil Vineet Shivaji,231202407@ditiss-mar-2024.com,patilvinis@gmail.com,9509272527,Bhusawal,83985,240344223025,C1,DITISS-MAR-2024,M,209240305,Laptop
+26,84025,84025#Sunbeam,-,Mohammad Shadab,231204044@ditiss-mar-2024.com,mo.shadab04@gmail.com,9837968213,Muzaffarnagar,84025,240344223020,C2,DITISS-MAR-2024,M,209240305,Laptop
+27,84048,84048#Sunbeam,-,Nidhi Balaram Patil,231201577@ditiss-mar-2024.com,19ec06@aitdgoa.edu.in,9145103695,Panji,84048,240344223022,C1,DITISS-MAR-2024,F,209240305,Laptop
+28,84073,84073#Sunbeam,-,Chaware Amisha Ramesh,231204261@ditiss-mar-2024.com,amishachaware9@gmail.com,7066877993,Nagpur,84073,,C1,DITISS-MAR-2024,F,209240305,Laptop
+29,84074,84074#Sunbeam,-,Jyothi Venkata Tejeswar Reddy,231203254@ditiss-mar-2024.com,tejeswarjv@gmail.com,6305486153,Hyderabad,84074,240344223014,C1,DITISS-MAR-2024,M,209240305,Laptop
+30,84101,84101#Sunbeam,-,Vaishnav Piyush Hanumandas,231205262@ditiss-mar-2024.com,piyushvaishnav21@gmail.com,9960395092,Parbhani,84101,240344223039,C2,DITISS-MAR-2024,M,209240305,Laptop
+31,84108,84108#Sunbeam,-,Sushant Ghatolkar,231205309@ditiss-mar-2024.com,sushantghatolkar123@gmail.com,7507881992,Chandrapur,84108,240344223036,C2,DITISS-MAR-2024,M,209240305,Laptop
+32,84118,84118#Sunbeam,-,Yahiya Shahid Mujawar,231208615@ditiss-mar-2024.com,yahyamujawar1653@gmail.com,9850819483,Satara,84118,240344223041,C2,DITISS-MAR-2024,M,209240305,Laptop
+33,84125,84125#Sunbeam,-,Mhaske Shubham Chandrakant,231205389@ditiss-mar-2024.com,shubmhaske1110@gmail.com,9067971110,Pune,84125,240344223018,C1,DITISS-MAR-2024,M,209240305,Laptop
+34,84132,84132#Sunbeam,-,Pawar Priyanka Pradip,231203709@ditiss-mar-2024.com,pawarpriyanka315@gmail.com,9518710252,Miraj,84132,240344223026,C1,DITISS-MAR-2024,F,209240305,Laptop
+35,84152,84152#Sunbeam,-,Burke Pratiksha Balasaheb,231206987@ditiss-mar-2024.com,pratikshaburke30@gmail.com,9146468048,Ahmednagar,84152,240344223006,C2,DITISS-MAR-2024,F,209240305,Laptop
+36,84158,84158#Sunbeam,-,Ujjwal Nilkanth Shelke,231208091@ditiss-mar-2024.com,ujjwalshelke2712@gmail.com,7410180298,Warud,84158,240344223037,C1,DITISS-MAR-2024,M,209240305,Laptop
+37,84174,84174#Sunbeam,-,Astha Mukund Bhende,231201635@ditiss-mar-2024.com,asthabhende2001@gmail.com,9175794910,Amravati,84174,,C1,DITISS-MAR-2024,F,209240305,Laptop
+38,84177,84177#Sunbeam,-,Vaibhav Ravindra Chavan,231207965@ditiss-mar-2024.com,vrchavan02@gmail.com,9689102809,Jalgaon,84177,240344223038,C2,DITISS-MAR-2024,M,209240305,Laptop
+39,84181,84181#Sunbeam,-,Samarth Tamrakar,231207851@ditiss-mar-2024.com,mastersamarthtamrakar123@gmail.com,7999420329,Jabalpur,84181,240344223032,C2,DITISS-MAR-2024,M,209240305,Laptop
+40,84192,84192#Sunbeam,-,Chambhare Saloni Diwakar,231207426@ditiss-mar-2024.com,salonichambhare@gmail.com,8308415634,Chandrapur,84192,240344223007,C1,DITISS-MAR-2024,F,209240305,Laptop
+41,84202,84202#Sunbeam,-,Prachi Tadse,231202012@ditiss-mar-2024.com,tadseprachi@gmail.com,9325926597,Nagpur,84202,240344223028,C2,DITISS-MAR-2024,F,209240305,Laptop
+42,84224,84224#Sunbeam,-,Aranya Mishra,231200465@ditiss-mar-2024.com,aranyamishra0228@gmail.com,6264216094,Jabalpur,84224,240344223003,C2,DITISS-MAR-2024,M,209240305,Laptop
+43,84227,84227#Sunbeam,-,Vikhe Poonam Santosh,231203038@ditiss-mar-2024.com,punamvikhe78@gmail.com,8208040103,Akola,84227,240344223040,C2,DITISS-MAR-2024,F,209240305,Laptop

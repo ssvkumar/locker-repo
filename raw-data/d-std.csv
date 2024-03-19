@@ -1,0 +1,230 @@
+Sr. No.,username,lastname,department,Gender
+1,83621,Galiyal Pradip Somanath,D2,M
+2,83622,Atharva Satish Narkhede,D1,M
+3,83624,Ayushi Sahu,D6,F
+4,83629,Mitali Joshi,D4,F
+5,83630,Bhosale Prathamesh Pradip Pratiksha,D1,M
+6,83632,Vaishak R K,D2,M
+7,83635,Mrunal Arvind Maheshkar,D3,M
+8,83636,Abhishek Raju Ballewar,D5,M
+9,83637,Akansha Mishra,D5,F
+10,83640,Pranali Sudhakar Nikam,D2,F
+11,83641,Abhinav Varma,D1,M
+12,83645,Khot Pavankumar Bharat,D3,M
+13,83647,Shejul Shubham Balasaheb,D4,M
+14,83648,Naik Pritesh Alias Vaibhav Vikas,D3,M
+15,83651,Patil Dipak Dattatray,D2,M
+16,83652,Kadam Ankita Mohan,D3,F
+17,83654,Yogesh Jalindarnath Solat,D1,M
+18,83656,Patil Avdhut Vitthal,D2,M
+19,83659,Chougule Swapnil Sandeep,D1,M
+20,83660,Tasneem Zakirhusen Chougule,D1,F
+21,83662,Barath Kumar S,D4,M
+22,83665,Shantanu Mukund Darlinge,D5,M
+23,83666,Shreyash Vitthal Patil,D2,M
+24,83668,Suyog Sunil Chaudhari,D4,M
+25,83669,Vasurkar Vaibhav Vishwambharrao,D6,M
+26,83672,Vishal Chhagan Gaikwad,D4,M
+27,83677,Wagale Mandar Santosh,D2,M
+28,83682,Mane Sagar Shivdas,D2,M
+29,83684,Shedge Harshal Hindurao,D2,M
+30,83686,Kulkarni Varad Kishorrao,D6,M
+31,83687,Kakad Rushikesh Madhavrao,D5,M
+32,83689,Gaurav Rakesh Patil,D2,M
+33,83693,Shailaja Uttam Chavan,D2,F
+34,83695,Rajaswa Rajnandan Doijad,D4,M
+35,83698,Rokade Rahul Rajiv,D6,M
+36,83699,Gorde Rohit Sudam,D6,M
+37,83700,Vaishnavi Uday Thete,D4,F
+38,83704,Chaudhari Akshay Hari,D4,M
+39,83705,Satpute Aditya Sandesh,D4,M
+40,83709,Khadse Atharwa Sanjay,D5,M
+41,83713,Junghare Ashish Shamrao,D3,M
+42,83714,Parit Prajwal Ramesh,D3,M
+43,83716,Avinash Balaso Lohar,D6,M
+44,83719,Nadaf Sahil Sikandar,D6,M
+45,83720,Abhinav Sudhir Kumbhare,D2,M
+46,83724,Vijayshiv,D1,M
+47,83725,Nishank Nanubhai Kose,D1,M
+48,83726,Raj Saytode,D4,M
+49,83727,Dudhe Sagar Rajeshrao,D3,M
+50,83729,Teke Nikita Sitaram,D5,F
+51,83730,Siddhant Deepak Sharma,D3,M
+52,83731,Inamdar Eshwar Satyanarayan,D1,M
+53,83732,Bibek Modak,D5,M
+54,83735,Eleti Rakesh,D4,M
+55,83736,Gaurav Kumar,D2,M
+56,83737,Mhaske Rohan Jalindar,D3,M
+57,83738,Chaskar Abhishek Suresh,D3,M
+58,83739,Pranav Chandrakant Bobade,D3,M
+59,83740,Aditya Anand Marathe,D3,M
+60,83741,Avadhut Ganpatrao Sakhare,D3,M
+61,83743,Chandan Dewangan,D3,M
+62,83744,Kottur Ashish Anil,D5,M
+63,83745,Deep Shrirang Bachanikar,D1,M
+64,83746,Lawand Prathamesh Suryakant,D1,M
+65,83747,Rohit Ratnakar Kamthe,D4,M
+66,83749,Kamble Ashutosh Tanaji,D6,M
+67,83750,Thakur Prajwal Dineshsingh,D2,M
+68,83761,Nagargoje Dhananjay Ganesh,D5,M
+69,83765,Wakte Shubham Santosh,D2,M
+70,83767,Maskar Sneha Navnath,D3,F
+71,83769,Salunkhe Amey Sunil,D2,M
+72,83770,Shreyash Laxman Mandlik,D5,M
+73,83771,Chetan Bapu Sonawane,D1,M
+74,83772,Abhinav Kumar Mishra,D2,M
+75,83773,Kulkarni Akshata Bhalchandra,D6,F
+76,83774,Kshirsagar Om Shivaji,D1,M
+77,83775,Yesare Manisha Suresh,D2,F
+78,83782,Sudhanshu Singh,D3,M
+79,83784,Kadam Ritesh Satish,D3,M
+80,83785,Shoury Veer Singh Chauhan,D5,M
+81,83786,Oshin Patle,D6,M
+82,83793,Swaraj Gajanan Rawate,D3,M
+83,83794,Nillawar Vedant Anil,D5,M
+84,83796,Chetan Anand Narvekar,D6,M
+85,83799,Nijwante Rohan Mahesh,D3,M
+86,83800,Jangam Shivani Sunil,D2,F
+87,83808,Tejaswini Laxmikant Kalekar,D3,F
+88,83809,Patil Asmita Ashok,D1,F
+89,83811,Atharva Rajesh Thakare,D1,M
+90,83814,Jayant Pravin Marne,D5,M
+91,83815,Kale Aniket Vitthalrao,D1,M
+92,83816,Ram Krishna Sahu,D6,M
+93,83817,Raipatwar Mahesh Pandurang,D5,M
+94,83819,Neeraj Rohidas Gavde,D6,M
+95,83822,Patil Rohit Ranjit,D2,M
+96,83824,Dnyaneshwar Appasaheb Kanke,D4,M
+97,83825,Saraf Ragini Rameshrao,D2,F
+98,83828,Kuldeep Singh Bhati,D4,M
+99,83829,Khokrale Siddhesh Sandip,D4,M
+100,83832,Vaishnavi Raju Phapagire,D5,F
+101,83834,Jadhav Ajinkya Vijay Kumar,D6,M
+102,83835,Bhide Ketan Govind,D4,M
+103,83836,Pisale Prathamesh Sanjay,D2,M
+104,83840,Morankar Amol Rajendra,D6,M
+105,83843,Ayushi Khanbarad,D3,F
+106,83849,Prathamesh Sudhir Kore,D4,M
+107,83850,Masurkar Vighnesh Vijay,D6,M
+108,83853,Aditya Shripad Mane,D5,M
+109,83855,Devesh Sharma,D1,M
+110,83856,Roshan Sunil Dehankar,D3,M
+111,83858,Sakhare Madhuri Neminath,D2,F
+112,83859,Purkar Vishal Aniruddha,D5,M
+113,83861,Bagal Rohit Mahadev,D6,M
+114,83866,Shweta Salgaonkar,D6,F
+115,83867,Magar Prajakta Balaso,D1,F
+116,83871,Dhavale Sourabh Sunil,D4,M
+117,83874,Asheesh Patel,D6,M
+118,83875,Thakur Hritik Sushilkumar,D5,M
+119,83876,Alind Dwivedi,D3,M
+120,83878,Joshi Vishal Dineshkumar,D4,M
+121,83879,Bhagat Shrishail Kiran,D4,M
+122,83880,Gaurav Rathore,D3,M
+123,83882,Kulkarni Vedant Milind,D5,M
+124,83883,Saifali,D3,F
+125,83884,Joshi Abhilash Dinesh,D3,M
+126,83888,Arya Patil,D3,M
+127,83889,Vatsal Mishra,D4,M
+128,83891,Mulay Saumitra Vaibhav,D4,M
+129,83893,Shashwat Sinha,D5,M
+130,83901,Shreedhan Narendra Shinde,D4,M
+131,83902,Jambhulkar Mishkeel Milind,D5,M
+132,83903,Khadse Yash Digambar,D5,M
+133,83905,Neha Mohan Dambal,D4,F
+134,83906,Aniket Bhauso Chavan,D4,M
+135,83907,Badakh Snehal Shivaji,D4,F
+136,83908,Bhalerao Dhammpal Balaji,D4,M
+137,83909,Shital Prakash Wasade,D4,F
+138,83920,Pooja Mohanreddy Nagnagar,D4,F
+139,83923,Jadhav Bhushan Gokul,D5,M
+140,83927,Adhishri Digambar Shinde,D5,F
+141,83928,Shinde Shekhar Satish,D4,M
+142,83931,Shinde Devyani Jaysing,D5,F
+143,83937,Shubham Ratnakar Gade,D2,M
+144,83939,Aniket Sanjaykumar Raut,D5,M
+145,83940,Bejjanki Shreya,D4,F
+146,83942,Khedekar Sairaj Sanjay,D6,M
+147,83947,Samarth Rahul Wale,D6,M
+148,83950,Gayake Ajay Rajendra,D5,M
+149,83952,Shailendra Singh,D6,M
+150,83954,Nancy Jain,D2,F
+151,83957,Aware Akash Manik,D2,M
+152,83961,Pabale Pratapsinh Pradip,D1,M
+153,83962,Shubham Dattatray Thakur,D1,M
+154,83963,Mahajan Vedant Rajendra,D5,M
+155,83966,Chavan Ashish Dadaso,D4,M
+156,83967,Shubham Gorakh Bansode,D3,M
+157,83968,Jambkar Abhijeet Pandurang,D6,M
+158,83969,Kanhaiya Shivraj Suryawanshi,D3,M
+159,83970,Jadhav Nikhil Anil,D3,M
+160,83971,Savaliya Dhawanil Haresh,D5,M
+161,83976,Misal Saurabh Sunil,D3,M
+162,83978,Kirwale Patil Ganesh Balaji,D1,M
+163,83988,Salunke Sachin Balasaheb,D1,M
+164,83990,Abhishek Chandrakant Bhopale,D5,M
+165,83991,Mane Madhura Sanjay,D5,F
+166,83996,Chavan Omkar Nandkumar,D2,M
+167,83998,Keer Shardul Pramod,D5,M
+168,84002,Tambolkar Amol Ram,D1,M
+169,84005,Talbar Sidhant Umakant,D1,M
+170,84006,Shubham Dilip Suratkar,D5,M
+171,84007,Saylee Dilip Dalu,D1,F
+172,84009,Prajwal Netaji Nanaware,D2,M
+173,84011,Bhivgade Tejas Banduji,D5,M
+174,84013,Sawant Rohan Balasaheb,D2,M
+175,84014,Gharge Dhairyashil Rajiv,D2,M
+176,84015,Nikam Prasad Ekanath,D2,M
+177,84016,Patil Suyash Subhash,D2,M
+178,84017,Patil Saurabh Anandrao,D2,M
+179,84019,Sawant Sangram Sanjay,D6,M
+180,84022,Prajakta Patil,D3,F
+181,84026,Vedant Pawar,D6,M
+182,84027,Patil Pratiksha Balkrishna,D3,F
+183,84028,Karan Suresh Ransing,D3,M
+184,84029,Chimote Vedant Ramdasji,D3,M
+185,84030,Aadesh Anup Shende,D6,M
+186,84037,Pansare Sohel Ismail,D4,M
+187,84040,Namrata Dnyanoba Shinde,D3,F
+188,84041,Kukade Jay Rajendra,D6,M
+189,84043,Aditya Sanjay Joshi,D6,M
+190,84044,Kayande Shaunak Piyush,D4,M
+191,84047,Ayush Baghmar,D1,M
+192,84049,Kunhale Balaji Sambhaji,D2,M
+193,84050,Shrikant Dilip Pansare,D2,M
+194,84055,Siddhant Bhosale,D6,M
+195,84056,Nishane Tushar Rajendra,D6,M
+196,84062,Rahul Singh Patel,D1,M
+197,84066,Nihar Ranjan Pradhan,D1,M
+198,84076,Shubham Gopalrao Karale,D5,M
+199,84077,Honey Adhana,D1,F
+200,84078,Pratik Gajanan Khot,D1,M
+201,84079,Pallavi Singh,D1,F
+202,84082,Nitin Yadav,D1,M
+203,84086,Sudrik Shriram Nanasaheb,D4,M
+204,84091,Abhishek Satish Chaudhari,D5,M
+205,84094,Ghagre Nikhil Sahebrao,D6,M
+206,84095,Pooja Suryakant Band,D1,F
+207,84096,Nikhil Ahuja,D3,M
+208,84097,Raskar Amit Ashok,D5,M
+209,84104,Kunal Rajendra Borse,D5,M
+210,84110,More Vishal Sahebrao,D2,M
+211,84115,Vedant Sanjay Tule,D6,M
+212,84129,Pujari Abhishek Krishant,D1,M
+213,84136,Aishwarya Sunil Tambare,D4,F
+214,84143,Shinde Piyush Murlidhar,D1,M
+215,84149,Vyavhare Prathamesh Mahesh,D2,M
+216,84150,Chachar Sanket Bhimrao,D6,M
+217,84151,Suryawanshi Abhishek Bhanudas,D6,M
+218,84156,Ashwini Kishor Thakur,D6,F
+219,84159,Anuj Sharma,D4,M
+220,84160,Pable Saurabh Digambar,D3,M
+221,84163,Purva Pandurang Takale,D5,F
+222,84166,Chavan Nilesh Ramesh,D2,M
+223,84172,Khamkar Abhishek Deepak,D6,M
+224,84178,Abhimanyu Prakash Patil,D1,M
+225,84187,Sushmita Ishwarchandra Bose,D6,F
+226,84199,Chavan Ankur Anantrao,D6,M
+227,84205,Kolekar Anirudha Bapu,D1,M
+228,84221,Nimbalkar Tushar Sunil,D4,M
+229,84335,Suryakar Prasad Balaji,D1,M

@@ -1,0 +1,118 @@
+Sr. No.,username,lastname,department,Gender
+1,83627,Patil Samir Vilas,E3,M
+2,83642,Deeksha Rathore,E2,F
+3,83649,Tendolkar Kranti Gopal,E1,F
+4,83657,Akash Agrawal,E3,M
+5,83667,Omkar Ankush Kashid,E3,M
+6,83670,Saurabh Rajendra Mhaske,E1,M
+7,83678,Shinde Poonam Rajendra Manisha,E1,F
+8,83680,Damani Ramya Bharatbhai,E1,M
+9,83685,Pratik Pandurang Jadhav,E2,M
+10,83692,Anushree Abhayraj Gaikwad,E2,F
+11,83694,Meenal Shrivastava,E2,F
+12,83697,Abhay Soni,E1,M
+13,83703,Patil Shubham Sunil,E1,M
+14,83707,Sawant Shrikrishna Vidyadhar Sandhya,E1,M
+15,83708,Barhate Navnita Mukesh,E3,F
+16,83712,Muskan Prajapati,E3,F
+17,83722,Patil Bhagyashri Dattatray,E2,F
+18,83755,Bansode Vivek Sakhahari,E2,M
+19,83757,Ghodake Pandurang Shahaji,E1,M
+20,83779,Sumit Tushar Sutar,E3,M
+21,83780,Gayatri Arun Nikam,E3,F
+22,83783,Ghorpade Sourabh Suresh,E3,M
+23,83790,Kalwad Aditya Suhas,E3,M
+24,83791,Borase Shubham Shekhar,E3,M
+25,83803,Shraddha Prashant Kokane,E1,F
+26,83804,Badakh Nikhil Gorakshanath,E3,M
+27,83805,Gajare Gorakh Namdev,E1,M
+28,83806,Udavant  Omkar Arun,E3,M
+29,83810,Shinde Mayuresh Shivanand,E1,M
+30,83812,Waghmare Parimal Shamuwel,E2,M
+31,83813,Mahajan Snehal Dhanraj,E3,F
+32,83818,Harsh Soni,E1,M
+33,83820,Thosar Vinayak Sunil,E3,M
+34,83821,Priyanshu Prafullkumar Bhagat,E3,M
+35,83839,Pratham Atul Chudiwal,E3,M
+36,83841,Thite Sandesh Pandit,E2,M
+37,83842,Nimkar Srushti Keshao,E2,F
+38,83845,Thorat Anurag Suhas,E1,M
+39,83846,Shubham Vilas Bhadke,E2,M
+40,83847,Ankit Sumedh Telgote,E3,M
+41,83854,Shyam Jagdish Wanjari,E3,M
+42,83860,Tejas Dnyaneshwar Gatkal,E1,M
+43,83865,Bhosale Jyoti Sanjay,E1,F
+44,83868,Wakodikar Hardik Vijay,E2,M
+45,83872,Palle Bharath,E3,M
+46,83881,Borate Nikhil Bharat,E3,M
+47,83892,Rutuja Jagannath Thorat,E1,F
+48,83896,Amrut Balaji Jadhav,E3,M
+49,83898,Gophane Kartik Gajanan,E3,M
+50,83899,Sanskruti Shashikant Mhatre,E3,F
+51,83912,Bachiphale Abhishek Suryakant,E3,M
+52,83915,Preetam Manish Surve,E1,M
+53,83916,Banait Ghanshyam Sanjay,E3,M
+54,83917,Patil Rajdatt Sudhakar,E2,M
+55,83919,Parth Ajaykumar Lohar,E3,M
+56,83921,Akshay Ravindra Kenjale,E1,M
+57,83924,Langore Rohan Chandrashekhar,E2,M
+58,83929,Patil Omkar Abaji,E1,M
+59,83933,Prajakta Bansiddha Pujari,E2,F
+60,83941,Yash Atul Jagtap,E1,M
+61,83944,Patil Parag Pralhad,E1,M
+62,83951,Attarde Jitendra Anil,E1,M
+63,83972,Murchite Chetan Shital,E1,M
+64,83973,Poonam Suresh Kokitkar,E1,F
+65,83975,Shrutika Ajay Ambekar,E2,F
+66,83980,Sonawane Dhanraj Shrikrushna,E1,M
+67,83984,Mamta Borade,E2,F
+68,83989,Akshay Vijay Potadar,E1,M
+69,83993,Ramteke Ashaya Sanjay,E3,M
+70,83995,Pritesh Prakash Lingade,E1,M
+71,83997,Sakshi Rajesh Wadje,E3,F
+72,84000,Nikita Dhananjay Kusnure,E3,F
+73,84003,Shinde Pranav Ashok,E2,M
+74,84008,Sayli Rajiv Polakhare,E2,F
+75,84018,Abhishek Kumar,E3,M
+76,84020,Patil Aniket Sanjay,E1,M
+77,84023,Gyan Chandra,E3,M
+78,84024,Waghmode Akshada Sudhir,E1,F
+79,84032,Bhagyashri Somnath Jagtap,E3,F
+80,84059,Honmane Aniket Balaso,E1,M
+81,84060,Shinde Sneha Shivaji,E1,F
+82,84063,Pratik Dnyandeo Badhe,E2,M
+83,84064,Lengare Ankita Popat,E1,F
+84,84065,Abhijit Sunil Jadhav,E2,M
+85,84067,K.Divya,E2,F
+86,84068,Marsone Shital Vasantrao,E3,F
+87,84071,Ashutosh Mahadeo Sonawane,E2,M
+88,84075,Gaikwad Vaibhav Dinkar,E2,M
+89,84080,Sanjay Saini,E2,M
+90,84083,Kansepatil Durva Jivanchandra,E2,F
+91,84088,Atharva Sunil Mahajan,E3,M
+92,84089,Shinde Sanket Janardhan,E2,M
+93,84092,Rucha Vilasrao Joshi,E2,F
+94,84112,Aniket Avinash Kadam,E1,M
+95,84114,Waghmode Samadhan Chandrakant,E2,M
+96,84116,Kaushal Kumar Soni,E2,M
+97,84123,Sudarshan Krushnat Patil,E1,M
+98,84130,Indore Yash Balasaheb,E1,M
+99,84131,Chikane Rushikesh Rajeshwar,E2,M
+100,84137,Narkhede Yugandhar Anil,E2,M
+101,84138,Gat Somnath Shivaji,E2,M
+102,84140,Lohakare Bhakti Shivanand,E2,F
+103,84142,Shinde Jitendra Suresh,E3,M
+104,84147,Ghodke Pooja Pranav,E3,F
+105,84153,Ingle Shashank Arjun,E2,M
+106,84161,Sangam Shinde,E3,M
+107,84186,Manish Kumar Sinha,E3,M
+108,84190,Gayatri Ganganna Pannam,E1,F
+109,84191,Musale Sudarshan Bharat,E2,M
+110,84195,Omkar Dattatray More,E1,M
+111,84201,Kore Sangram,E1,M
+112,84211,Patil Chetan Gyanu,E2,M
+113,84214,Bhoi Sanket Suresh,E3,M
+114,84223,Aman Singh,E3,M
+115,84235,Amruta Balaso Jadhav,E1,F
+116,84238,Mohmmedjunaid A Namajkatti,E2,M
+117,84343,Varsha Sutar,E2,F
